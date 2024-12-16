@@ -1,0 +1,11 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение:}{3}{section*.3}%
+\contentsline {section}{Основная часть:}{5}{section*.4}%
+\contentsline {subsection}{Немного о выбранных библиотеках:}{5}{section*.5}%
+\contentsline {subsection}{Стартовые примеры:}{7}{section*.6}%
+\contentsline {subsection}{Попытка выделения основных цветов:}{10}{section*.7}%
+\contentsline {subsubsection}{Неудачный способ}{10}{section*.8}%
+\contentsline {subsubsection}{Введение шага}{13}{section*.9}%
+\contentsline {subsubsection}{Кластеризация}{16}{section*.10}%
+\contentsline {subsection}{Первый рефакторинг}{23}{section*.11}%
+\contentsline {section}{Приложения (Фотографии):}{27}{section*.12}%

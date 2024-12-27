@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 from random import *
 
@@ -97,6 +97,8 @@ def findKeyColors(arrayImgSource, key_colors_amount):
     return key_colors
 
 def repaintWithCellStep(arrayImgSource, key_colors, cell_size):
+    font = ImageFont.truetype("../../CrossStitch3/crossstitch3.ttf", size=18)
+    alphabet = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm"
     for row in range(0, arrayImgSource.shape[0], cell_size):
         for col in range(0, arrayImgSource.shape[1], cell_size):
             #Find the closest color from key colors
@@ -109,6 +111,20 @@ def repaintWithCellStep(arrayImgSource, key_colors, cell_size):
             #Change cur pixel color on closest one
             arrayImgSource[row:row+cell_size, col:col+cell_size] = key_colors[best_color_ind]
     return arrayImgSource
+
+def symbolsWithCellStep(img, arrayImgSource, key_colors, cell_size):
+    font = ImageFont.truetype("../../CrossStitch3/crossstitch3.ttf", size=18)
+    alphabet = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm"
+    imgWithPicto = ImageDraw.Draw(img)
+    for row in range(0, arrayImgSource.shape[0], cell_size):
+        for col in range(0, arrayImgSource.shape[1], cell_size):
+            #Find the closest color from key colors
+            for cur_c in range (0, len(key_colors)):
+                if np.array_equal(key_colors[cur_c], arrayImgSource[row, col]):
+                    imgWithPicto.text((10, 10), alphabet[cur_c], font=font)
+                    break
+            #Change cur pixel color on closest one
+    return imgWithPicto
         
 def makePixelized(arrayImgSource, cell_size):
     #Iterate all possible cells
@@ -152,4 +168,19 @@ arrayImg = repaintWithCellStep(arrayImg, key_colors, cell_size)
 arrayImg = addGrid(arrayImg, cell_size)
 
 img2 = Image.fromarray(arrayImg.astype(np.uint8))
-img2.save("../../images/refactoring1/refactored_" + filename)
+#img2 = symbolsWithCellStep(img2, key_colors, arrayImg, cell_size)
+
+font = ImageFont.truetype("../../CrossStitch3/crossstitch3.ttf", size=32)
+alphabet = "QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm"
+imgWithPicto = ImageDraw.Draw(img2)
+#for row in range(0, arrayImg.shape[0], cell_size):
+    #for col in range(0, arrayImg.shape[1], cell_size):
+        #Find the closest color from key colors
+        #for cur_c in range (0, len(key_colors)):
+            #if np.array_equal(key_colors[cur_c], arrayImg[row, col]):
+             #   imgWithPicto.text((10, 10), alphabet[cur_c], font=font)
+              #  break
+              
+imgWithPicto.text((100, 100), "SHIT!!!", font=font)
+
+img2.save("../../images/refactoring1/with_picto_" + filename)

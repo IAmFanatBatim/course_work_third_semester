@@ -1,11 +1,16 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{Введение:}{3}{section*.3}%
-\contentsline {section}{Основная часть:}{5}{section*.4}%
-\contentsline {subsection}{Немного о выбранных библиотеках:}{5}{section*.5}%
-\contentsline {subsection}{Стартовые примеры:}{7}{section*.6}%
-\contentsline {subsection}{Попытка выделения основных цветов:}{10}{section*.7}%
-\contentsline {subsubsection}{Неудачный способ}{10}{section*.8}%
-\contentsline {subsubsection}{Введение шага}{13}{section*.9}%
+\contentsline {section}{Основная часть:}{4}{section*.4}%
+\contentsline {subsection}{Немного о выбранных библиотеках:}{4}{section*.5}%
+\contentsline {subsection}{Стартовые примеры:}{6}{section*.6}%
+\contentsline {subsection}{Попытка выделения основных цветов:}{9}{section*.7}%
+\contentsline {subsubsection}{Неудачный способ}{9}{section*.8}%
+\contentsline {subsubsection}{Введение шага}{12}{section*.9}%
 \contentsline {subsubsection}{Кластеризация}{16}{section*.10}%
-\contentsline {subsection}{Первый рефакторинг}{23}{section*.11}%
-\contentsline {section}{Приложения (Фотографии):}{27}{section*.12}%
+\contentsline {subsection}{Первый рефакторинг}{22}{section*.11}%
+\contentsline {subsection}{Добавление пиктограмм к цветам}{26}{section*.12}%
+\contentsline {subsection}{Соответствие между цветами и нитками}{30}{section*.14}%
+\contentsline {subsection}{Заключительная версия программы:}{35}{section*.15}%
+\contentsline {section}{Вывод:}{44}{section*.16}%
+\contentsline {section}{Список используемых источников:}{45}{section*.17}%
+\contentsline {section}{Приложения (Фотографии):}{45}{section*.19}%

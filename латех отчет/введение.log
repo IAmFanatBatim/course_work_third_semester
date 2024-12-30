@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  14 DEC 2024 12:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.12.12)  30 DEC 2024 09:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -522,11 +522,16 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/graphics\dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
-y
+)) (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read3
+)
+(C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count279
 \lst@gtempboxa=\box53
-\lst@token=\toks21
+\lst@token=\toks23
 \lst@length=\count280
 \lst@currlwidth=\dimen166
 \lst@column=\count281
@@ -572,7 +577,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks22
+\@emptytoks=\toks24
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -588,7 +593,7 @@ Package: amstext 2021/08/26 v2.01 AMS text
 
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
+\@emptytoks=\toks25
 \ex@=\dimen170
 ))
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
@@ -628,21 +633,21 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \dotsspace@=\muskip17
 \c@parentequation=\count294
 \dspbrk@lvl=\count295
-\tag@help=\toks24
+\tag@help=\toks26
 \row@=\count296
 \column@=\count297
 \maxfields@=\count298
-\andhelp@=\toks25
+\andhelp@=\toks27
 \eqnshift@=\dimen173
 \alignsep@=\dimen174
 \tagshift@=\dimen175
 \tagwidth@=\dimen176
 \totwidth@=\dimen177
 \lineht@=\dimen178
-\@envbody=\toks26
+\@envbody=\toks28
 \multlinegap=\skip55
 \multlinetaggap=\skip56
-\mathdisplay@stack=\toks27
+\mathdisplay@stack=\toks29
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
@@ -654,27 +659,27 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.aux)
 \openout1 = `Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Info: Redefining \th on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Info: Redefining \th on input line 65.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -710,7 +715,7 @@ LaTeX Info: Redefining \th on input line 64.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 65.
 (Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.out) (Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.out)
 \@outlinefile=\write3
 \openout3 = `Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.out'.
@@ -724,12 +729,12 @@ ii
 \scratchbox=\box58
 \nofMPsegments=\count301
 \nofMParguments=\count302
-\everyMPshowfont=\toks28
+\everyMPshowfont=\toks30
 \MPscratchCnt=\count303
 \MPscratchDim=\dimen180
 \MPnumerator=\count304
 \makeMPintoPDFobject=\count305
-\everyMPtoPDFconversion=\toks29
+\everyMPtoPDFconversion=\toks31
 )
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -755,13 +760,13 @@ Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count306
  (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks30
-\inpenc@posthook=\toks31
+\inpenc@prehook=\toks32
+\inpenc@posthook=\toks33
 )
-<start_logo.jpg, id=43, 466.74374pt x 191.21437pt>
+<start_logo.jpg, id=63, 466.74374pt x 191.21437pt>
 File: start_logo.jpg Graphic file (type jpg)
 <use start_logo.jpg>
-Package pdftex.def Info: start_logo.jpg  used on input line 76.
+Package pdftex.def Info: start_logo.jpg  used on input line 77.
 (pdftex.def)             Requested size: 284.52756pt x 116.56764pt.
 [1
 
@@ -781,12 +786,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout4 = `Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.toc'.
 
 
-[2] [3] [4] [5]
+[2] [3] [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6]
+ [5]
 LaTeX Font Info:    Trying to load font information for T2A+PTMono-TLF on input
- line 188.
+ line 175.
 
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/paratype\t2aptmono-tlf.
 fd
@@ -798,26 +803,26 @@ LaTeX Font Info:    Trying to load font information for TS1+PTMono-TLF on input
 (C:\Users\sovac\AppData\Local\Programs\MiKTeX\tex/latex/paratype\ts1ptmono-tlf.
 fd
 File: TS1PTMono-TLF.fd 2014/02/02 Font definitions for TS1/PTMono-TLF.
-)) [7{C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/paratype/ptm
+)) [6{C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/paratype/ptm
 ono_t2a.enc}{C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/parat
 ype/ptmono_ts1.enc}] (progs/generals/pixelization_with_cropping.py
 Underfull \vbox (badness 3219) has occurred while \output is active []
 
- [8])
-(progs/generals/grid_adding.py [9]
+ [7])
+(progs/generals/grid_adding.py [8]
 Overfull \hbox (69.45612pt too wide) in paragraph at lines 30--32
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-) (progs/reduced/palitra_reduction.py [10]
+) (progs/reduced/palitra_reduction.py [9]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11])
+ [10])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
-[13]
-Overfull \hbox (3.23953pt too wide) in paragraph at lines 237--238
+ [11]
+[12]
+Overfull \hbox (3.23953pt too wide) in paragraph at lines 224--225
 []\T2A/cmr/bx/n/12 Âàæíîå ïðè-ìå-÷à-íèå:  \T2A/cmr/m/n/12 òàê-æå íà ýòîì ýòà-ïå
  âíå-ñåì èç-ìå-íå-íèÿ â ôóíê-öèþ getColorDistance.
  []
@@ -825,185 +830,336 @@ Overfull \hbox (3.23953pt too wide) in paragraph at lines 237--238
 (progs/reduced/palitra_reduction with step.py
 Underfull \vbox (badness 3219) has occurred while \output is active []
 
- [14]
+ [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15])
-[16] (progs/reduced_clasters/palitra_reduction clasters final.py [17]
+ [14])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+(progs/reduced_clasters/palitra_reduction clasters final.py [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
 (progs/reduced_clasters/palitra_reduction clasters hex code.py
 Underfull \vbox (badness 1087) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
+ [21])
+(progs/refactoring1/merge.py [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22])
-(progs/refactoring1/merge.py [23]
+ [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-Overfull \hbox (69.45612pt too wide) in paragraph at lines 135--136
+Overfull \hbox (69.45612pt too wide) in paragraph at lines 134--135
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-)
-<images/origins/cats.png, id=798, 1284.8pt x 963.6pt>
+) [26]
+<font_example.png, id=848, 740.7675pt x 120.45pt>
+File: font_example.png Graphic file (type png)
+<use font_example.png>
+Package pdftex.def Info: font_example.png  used on input line 280.
+(pdftex.def)             Requested size: 426.79134pt x 69.39787pt.
+ (progs/picto/with_picto.py) [27 <./font_example.png (PNG copy)>]
+(progs/picto/with_picto.py) (progs/picto/with_picto.py
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 161--162
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+[28]) (progs/picto/with_picto.py) (progs/picto/with_picto.py [29]) [30]
+(DMC/createJSON.py) (progs/relating_with_threads/relating_with_threads.py
+[31]) (progs/relating_with_threads/relating_with_threads.py
+Overfull \hbox (98.25641pt too wide) in paragraph at lines 228--229
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (76.65619pt too wide) in paragraph at lines 230--231
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[32]
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 238--239
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+) (progs/relating_with_threads/relating_with_threads.py
+Overfull \hbox (170.25714pt too wide) in paragraph at lines 257--258
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[33]
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 264--265
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+) (progs/relating_with_threads/relating_with_threads.py [34])
+(progs/final/final_making_scheme.py [35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 190--191
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40]
+Overfull \hbox (69.45612pt too wide) in paragraph at lines 218--219
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (98.25641pt too wide) in paragraph at lines 229--230
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (76.65619pt too wide) in paragraph at lines 231--232
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 239--240
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+Overfull \hbox (91.05634pt too wide) in paragraph at lines 258--259
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (134.25677pt too wide) in paragraph at lines 265--266
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+<images/origins/cats.png, id=1500, 1284.8pt x 963.6pt>
 File: images/origins/cats.png Graphic file (type png)
 <use images/origins/cats.png>
-Package pdftex.def Info: images/origins/cats.png  used on input line 286.
+Package pdftex.def Info: images/origins/cats.png  used on input line 368.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/origins/baloons.png, id=799, 1535.7375pt x 963.6pt>
+<images/origins/baloons.png, id=1501, 1535.7375pt x 963.6pt>
 File: images/origins/baloons.png Graphic file (type png)
 <use images/origins/baloons.png>
-Package pdftex.def Info: images/origins/baloons.png  used on input line 294.
+Package pdftex.def Info: images/origins/baloons.png  used on input line 376.
 (pdftex.def)             Requested size: 426.79134pt x 267.79181pt.
-<images/origins/imp.png, id=800, 732.7375pt x 737.75626pt>
+<images/origins/imp.png, id=1502, 732.7375pt x 737.75626pt>
 File: images/origins/imp.png Graphic file (type png)
 <use images/origins/imp.png>
-Package pdftex.def Info: images/origins/imp.png  used on input line 302.
+Package pdftex.def Info: images/origins/imp.png  used on input line 384.
 (pdftex.def)             Requested size: 284.52756pt x 286.47423pt.
-<images/generals/pixel_cats.png, id=801, 1284.8pt x 963.6pt>
+<images/generals/pixel_cats.png, id=1503, 1284.8pt x 963.6pt>
 File: images/generals/pixel_cats.png Graphic file (type png)
 <use images/generals/pixel_cats.png>
-Package pdftex.def Info: images/generals/pixel_cats.png  used on input line 310
+Package pdftex.def Info: images/generals/pixel_cats.png  used on input line 392
 .
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/generals/pixel_baloons.png, id=802, 2047.65pt x 1279.78125pt>
+<images/generals/pixel_baloons.png, id=1504, 2047.65pt x 1279.78125pt>
 File: images/generals/pixel_baloons.png Graphic file (type png)
 <use images/generals/pixel_baloons.png>
 Package pdftex.def Info: images/generals/pixel_baloons.png  used on input line 
-318.
+400.
 (pdftex.def)             Requested size: 426.79134pt x 266.7311pt.
-<images/generals/pixel_imp.png, id=803, 728.7225pt x 734.745pt>
+<images/generals/pixel_imp.png, id=1505, 728.7225pt x 734.745pt>
 File: images/generals/pixel_imp.png Graphic file (type png)
 <use images/generals/pixel_imp.png>
-Package pdftex.def Info: images/generals/pixel_imp.png  used on input line 326.
+Package pdftex.def Info: images/generals/pixel_imp.png  used on input line 408.
 
 (pdftex.def)             Requested size: 284.52756pt x 286.87451pt.
-<images/generals/gridded_cats.png, id=804, 1411.2725pt x 1057.9525pt>
+<images/generals/gridded_cats.png, id=1506, 1411.2725pt x 1057.9525pt>
 File: images/generals/gridded_cats.png Graphic file (type png)
 <use images/generals/gridded_cats.png>
-Package pdftex.def Info: images/generals/gridded_cats.png  used on input line 3
-34.
+Package pdftex.def Info: images/generals/gridded_cats.png  used on input line 4
+16.
 (pdftex.def)             Requested size: 369.88582pt x 277.27275pt.
-<images/generals/gridded_imp.png, id=805, 849.1725pt x 856.19875pt>
+<images/generals/gridded_imp.png, id=1507, 849.1725pt x 856.19875pt>
 File: images/generals/gridded_imp.png Graphic file (type png)
 <use images/generals/gridded_imp.png>
-Package pdftex.def Info: images/generals/gridded_imp.png  used on input line 34
-3.
+Package pdftex.def Info: images/generals/gridded_imp.png  used on input line 42
+5.
 (pdftex.def)             Requested size: 284.52756pt x 286.88388pt.
-<images/reduced/reduced_cats.png, id=806, 1284.8pt x 963.6pt>
+<images/reduced/reduced_cats.png, id=1508, 1284.8pt x 963.6pt>
 File: images/reduced/reduced_cats.png Graphic file (type png)
 <use images/reduced/reduced_cats.png>
-Package pdftex.def Info: images/reduced/reduced_cats.png  used on input line 35
-2.
+Package pdftex.def Info: images/reduced/reduced_cats.png  used on input line 43
+4.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/reduced/reduced_baloons.png, id=807, 2047.65pt x 1284.8pt>
+<images/reduced/reduced_baloons.png, id=1509, 2047.65pt x 1284.8pt>
 File: images/reduced/reduced_baloons.png Graphic file (type png)
 <use images/reduced/reduced_baloons.png>
 Package pdftex.def Info: images/reduced/reduced_baloons.png  used on input line
- 360.
+ 442.
 (pdftex.def)             Requested size: 426.79134pt x 267.7771pt.
-<images/reduced/reduced_imp.png, id=808, 732.7375pt x 737.75626pt>
+<images/reduced/reduced_imp.png, id=1510, 732.7375pt x 737.75626pt>
 File: images/reduced/reduced_imp.png Graphic file (type png)
 <use images/reduced/reduced_imp.png>
-Package pdftex.def Info: images/reduced/reduced_imp.png  used on input line 368
+Package pdftex.def Info: images/reduced/reduced_imp.png  used on input line 450
 .
 (pdftex.def)             Requested size: 284.52756pt x 286.47423pt.
-<images/reduced/reduced_with_step_20_1.0_cats.png, id=809, 1284.8pt x 963.6pt>
+<images/reduced/reduced_with_step_20_1.0_cats.png, id=1511, 1284.8pt x 963.6pt>
+
 File: images/reduced/reduced_with_step_20_1.0_cats.png Graphic file (type png)
 <use images/reduced/reduced_with_step_20_1.0_cats.png>
 Package pdftex.def Info: images/reduced/reduced_with_step_20_1.0_cats.png  used
- on input line 377.
+ on input line 459.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/reduced/reduced_with_step_20_1.5_imp.png, id=810, 732.7375pt x 737.7562
-6pt>
+<images/reduced/reduced_with_step_20_1.5_imp.png, id=1512, 732.7375pt x 737.756
+26pt>
 File: images/reduced/reduced_with_step_20_1.5_imp.png Graphic file (type png)
 <use images/reduced/reduced_with_step_20_1.5_imp.png>
 Package pdftex.def Info: images/reduced/reduced_with_step_20_1.5_imp.png  used 
-on input line 385.
+on input line 467.
 (pdftex.def)             Requested size: 284.52756pt x 286.47423pt.
-<images/reduced_clasters/K-means_reduced_20_cats.png, id=811, 1284.8pt x 963.6p
-t>
+<images/reduced_clasters/K-means_reduced_20_cats.png, id=1513, 1284.8pt x 963.6
+pt>
 File: images/reduced_clasters/K-means_reduced_20_cats.png Graphic file (type pn
 g)
 <use images/reduced_clasters/K-means_reduced_20_cats.png>
 Package pdftex.def Info: images/reduced_clasters/K-means_reduced_20_cats.png  u
-sed on input line 394.
+sed on input line 476.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/reduced_clasters/HEXcode_K-means_reduced_20_cats.png, id=812, 1284.8pt 
-x 963.6pt>
+<images/reduced_clasters/HEXcode_K-means_reduced_20_cats.png, id=1514, 1284.8pt
+ x 963.6pt>
 File: images/reduced_clasters/HEXcode_K-means_reduced_20_cats.png Graphic file 
 (type png)
 <use images/reduced_clasters/HEXcode_K-means_reduced_20_cats.png>
 Package pdftex.def Info: images/reduced_clasters/HEXcode_K-means_reduced_20_cat
-s.png  used on input line 402.
+s.png  used on input line 484.
 (pdftex.def)             Requested size: 369.88582pt x 277.40778pt.
-<images/reduced_clasters/HEXcode_K-means_reduced_20_imp.png, id=813, 732.7375pt
- x 737.75626pt>
+<images/reduced_clasters/HEXcode_K-means_reduced_20_imp.png, id=1515, 732.7375p
+t x 737.75626pt>
 File: images/reduced_clasters/HEXcode_K-means_reduced_20_imp.png Graphic file (
 type png)
 <use images/reduced_clasters/HEXcode_K-means_reduced_20_imp.png>
 Package pdftex.def Info: images/reduced_clasters/HEXcode_K-means_reduced_20_imp
-.png  used on input line 410.
+.png  used on input line 492.
 (pdftex.def)             Requested size: 284.52756pt x 286.47423pt.
-<images/refactoring1/refactored_cats.png, id=814, 1412.27625pt x 1058.95625pt>
+<images/refactoring1/refactored_cats.png, id=1516, 1412.27625pt x 1058.95625pt>
+
 File: images/refactoring1/refactored_cats.png Graphic file (type png)
 <use images/refactoring1/refactored_cats.png>
 Package pdftex.def Info: images/refactoring1/refactored_cats.png  used on input
- line 418.
+ line 500.
 (pdftex.def)             Requested size: 369.88582pt x 277.34192pt.
-<images/refactoring1/refactored_imp.png, id=815, 834.11626pt x 842.14626pt>
+<images/refactoring1/refactored_imp.png, id=1517, 805.0075pt x 805.0075pt>
 File: images/refactoring1/refactored_imp.png Graphic file (type png)
 <use images/refactoring1/refactored_imp.png>
 Package pdftex.def Info: images/refactoring1/refactored_imp.png  used on input 
-line 426.
-(pdftex.def)             Requested size: 284.52756pt x 287.26399pt.
- [27] [28 <./images/origins/cats.png> <./images/origins/baloons.png>] [29 <./im
-ages/origins/imp.png> <./images/generals/pixel_cats.png (PNG copy)>] [30 <./ima
-ges/generals/pixel_baloons.png (PNG copy)> <./images/generals/pixel_imp.png (PN
-G copy)>] [31 <./images/generals/gridded_cats.png (PNG copy)> <./images/general
-s/gridded_imp.png (PNG copy)>] [32 <./images/reduced/reduced_cats.png (PNG copy
-)> <./images/reduced/reduced_baloons.png (PNG copy)>] [33 <./images/reduced/red
-uced_imp.png (PNG copy)> <./images/reduced/reduced_with_step_20_1.0_cats.png (P
-NG copy)>] [34 <./images/reduced/reduced_with_step_20_1.5_imp.png (PNG copy)> <
-./images/reduced_clasters/K-means_reduced_20_cats.png (PNG copy)>] [35 <./image
-s/reduced_clasters/HEXcode_K-means_reduced_20_cats.png (PNG copy)> <./images/re
-duced_clasters/HEXcode_K-means_reduced_20_imp.png (PNG copy)>] [36 <./images/re
-factoring1/refactored_cats.png (PNG copy)> <./images/refactoring1/refactored_im
-p.png (PNG copy)>] (Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.aux)
+line 508.
+(pdftex.def)             Requested size: 284.52756pt x 284.52061pt.
+<images/refactoring1/with_picto_cats.png, id=1518, 2054.67625pt x 1540.75626pt>
+
+File: images/refactoring1/with_picto_cats.png Graphic file (type png)
+<use images/refactoring1/with_picto_cats.png>
+Package pdftex.def Info: images/refactoring1/with_picto_cats.png  used on input
+ line 516.
+(pdftex.def)             Requested size: 369.88582pt x 277.37119pt.
+<images/refactoring1/with_picto_imp.png, id=1519, 1543.7675pt x 1543.7675pt>
+File: images/refactoring1/with_picto_imp.png Graphic file (type png)
+<use images/refactoring1/with_picto_imp.png>
+Package pdftex.def Info: images/refactoring1/with_picto_imp.png  used on input 
+line 524.
+(pdftex.def)             Requested size: 369.88582pt x 369.87576pt.
+<images/refactoring1/with_picto_baloons.png, id=1520, 3275.23625pt x 2054.67625
+pt>
+File: images/refactoring1/with_picto_baloons.png Graphic file (type png)
+<use images/refactoring1/with_picto_baloons.png>
+Package pdftex.def Info: images/refactoring1/with_picto_baloons.png  used on in
+put line 532.
+(pdftex.def)             Requested size: 369.88582pt x 232.03464pt.
+<images/refactoring1/with_info_cats.png, id=1521, 2054.67625pt x 1641.13126pt>
+File: images/refactoring1/with_info_cats.png Graphic file (type png)
+<use images/refactoring1/with_info_cats.png>
+Package pdftex.def Info: images/refactoring1/with_info_cats.png  used on input 
+line 540.
+(pdftex.def)             Requested size: 369.88582pt x 295.44096pt.
+<images/refactoring1/with_info_imp.png, id=1522, 1543.7675pt x 1624.0675pt>
+File: images/refactoring1/with_info_imp.png Graphic file (type png)
+<use images/refactoring1/with_info_imp.png>
+Package pdftex.def Info: images/refactoring1/with_info_imp.png  used on input l
+ine 548.
+(pdftex.def)             Requested size: 369.88582pt x 389.11507pt.
+<images/refactoring1/with_info_tiny.png, id=1523, 718.685pt x 428.60126pt>
+File: images/refactoring1/with_info_tiny.png Graphic file (type png)
+<use images/refactoring1/with_info_tiny.png>
+Package pdftex.def Info: images/refactoring1/with_info_tiny.png  used on input 
+line 556.
+(pdftex.def)             Requested size: 369.88582pt x 220.59149pt.
+
+[45 <./images/origins/cats.png>] [46 <./images/origins/baloons.png> <./images/o
+rigins/imp.png>] [47 <./images/generals/pixel_cats.png (PNG copy)> <./images/ge
+nerals/pixel_baloons.png (PNG copy)>] [48 <./images/generals/pixel_imp.png (PNG
+ copy)> <./images/generals/gridded_cats.png (PNG copy)>] [49 <./images/generals
+/gridded_imp.png (PNG copy)> <./images/reduced/reduced_cats.png (PNG copy)>]
+[50 <./images/reduced/reduced_baloons.png (PNG copy)> <./images/reduced/reduced
+_imp.png (PNG copy)>] [51 <./images/reduced/reduced_with_step_20_1.0_cats.png (
+PNG copy)> <./images/reduced/reduced_with_step_20_1.5_imp.png (PNG copy)>]
+[52 <./images/reduced_clasters/K-means_reduced_20_cats.png (PNG copy)> <./image
+s/reduced_clasters/HEXcode_K-means_reduced_20_cats.png (PNG copy)>] [53 <./imag
+es/reduced_clasters/HEXcode_K-means_reduced_20_imp.png (PNG copy)> <./images/re
+factoring1/refactored_cats.png (PNG copy)>] [54 <./images/refactoring1/refactor
+ed_imp.png (PNG copy)> <./images/refactoring1/with_picto_cats.png (PNG copy)>]
+[55 <./images/refactoring1/with_picto_imp.png (PNG copy)> <./images/refactoring
+1/with_picto_baloons.png (PNG copy)>] [56 <./images/refactoring1/with_info_cats
+.png (PNG copy)>] [57 <./images/refactoring1/with_info_imp.png (PNG copy)>]
+[58 <./images/refactoring1/with_info_tiny.png (PNG copy)>]
+(Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.out' has not changed.
-(rerunfilecheck)             Checksum: 3FB451AC816BC3DAECAB770B0473CD22;2032.
+(rerunfilecheck)             Checksum: D1874855A03A1241D2A11AF74EA9AE09;3363.
  ) 
 Here is how much of TeX's memory you used:
- 16934 strings out of 475247
- 268944 string characters out of 5757791
- 2189785 words of memory out of 5000000
- 37509 multiletter control sequences out of 15000+600000
- 569958 words of font info for 66 fonts, out of 8000000 for 9000
+ 17774 strings out of 475247
+ 285708 string characters out of 5757791
+ 2220785 words of memory out of 5000000
+ 37700 multiletter control sequences out of 15000+600000
+ 569890 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,3338b,1242s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx14
-40.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-ti1200.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+ 75i,6n,79p,3338b,1267s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm08
+00.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1440.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1200.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\larm1728.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
 -t2a/dpi600\labx1728.pk> <C:\Users\sovac\AppData\Local\MiKTeX\fonts/pk/ljfour/l
@@ -1012,14 +1168,14 @@ ur/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/sovac/AppData/Local/Programs/MiKTeX/f
 onts/type1/paratype/ptmono/PTM55F.pfb><C:/Users/sovac/AppData/Local/Programs/Mi
 KTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/sovac/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/sovac/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sovac
-/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/User
-s/sovac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-><C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symb
-ols/msam10.pfb>
-Output written on Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.pdf (36 pages, 4844503 bytes).
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/sovac
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/sovac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+<C:/Users/sovac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ.pdf (58 pages, 6939079 bytes).
 PDF statistics:
- 1419 PDF objects out of 1440 (max. 8388607)
- 692 named destinations out of 1000 (max. 500000)
- 176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2219 PDF objects out of 2487 (max. 8388607)
+ 1305 named destinations out of 1440 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 

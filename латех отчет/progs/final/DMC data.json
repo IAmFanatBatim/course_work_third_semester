@@ -1,0 +1,4892 @@
+[
+    {
+        "thread_code": "3713",
+        "thread_name": "Salmon Very Light",
+        "thread_HEX_code": "#FFE2E2",
+        "thread_RGB": [
+            255,
+            226,
+            226
+        ]
+    },
+    {
+        "thread_code": "761",
+        "thread_name": "Salmon Light",
+        "thread_HEX_code": "#FFC9C9",
+        "thread_RGB": [
+            255,
+            201,
+            201
+        ]
+    },
+    {
+        "thread_code": "760",
+        "thread_name": "Salmon",
+        "thread_HEX_code": "#F5ADAD",
+        "thread_RGB": [
+            245,
+            173,
+            173
+        ]
+    },
+    {
+        "thread_code": "3712",
+        "thread_name": "Salmon Medium",
+        "thread_HEX_code": "#F18787",
+        "thread_RGB": [
+            241,
+            135,
+            135
+        ]
+    },
+    {
+        "thread_code": "3328",
+        "thread_name": "Salmon Dark",
+        "thread_HEX_code": "#E36D6D",
+        "thread_RGB": [
+            227,
+            109,
+            109
+        ]
+    },
+    {
+        "thread_code": "347",
+        "thread_name": "Salmon Very Dark",
+        "thread_HEX_code": "#BF2D2D",
+        "thread_RGB": [
+            191,
+            45,
+            45
+        ]
+    },
+    {
+        "thread_code": "353",
+        "thread_name": "Peach",
+        "thread_HEX_code": "#FED7CC",
+        "thread_RGB": [
+            254,
+            215,
+            204
+        ]
+    },
+    {
+        "thread_code": "352",
+        "thread_name": "Coral Light",
+        "thread_HEX_code": "#FD9C97",
+        "thread_RGB": [
+            253,
+            156,
+            151
+        ]
+    },
+    {
+        "thread_code": "351",
+        "thread_name": "Coral",
+        "thread_HEX_code": "#E96A67",
+        "thread_RGB": [
+            233,
+            106,
+            103
+        ]
+    },
+    {
+        "thread_code": "350",
+        "thread_name": "Coral Medium",
+        "thread_HEX_code": "#E04848",
+        "thread_RGB": [
+            224,
+            72,
+            72
+        ]
+    },
+    {
+        "thread_code": "349",
+        "thread_name": "Coral Dark",
+        "thread_HEX_code": "#D21035",
+        "thread_RGB": [
+            210,
+            16,
+            53
+        ]
+    },
+    {
+        "thread_code": "817",
+        "thread_name": "Coral Red Very Dark",
+        "thread_HEX_code": "#BB051F",
+        "thread_RGB": [
+            187,
+            5,
+            31
+        ]
+    },
+    {
+        "thread_code": "3708",
+        "thread_name": "Melon Light",
+        "thread_HEX_code": "#FFCBD5",
+        "thread_RGB": [
+            255,
+            203,
+            213
+        ]
+    },
+    {
+        "thread_code": "3706",
+        "thread_name": "Melon Medium",
+        "thread_HEX_code": "#FFADBC",
+        "thread_RGB": [
+            255,
+            173,
+            188
+        ]
+    },
+    {
+        "thread_code": "3705",
+        "thread_name": "Melon Dark",
+        "thread_HEX_code": "#FF7992",
+        "thread_RGB": [
+            255,
+            121,
+            146
+        ]
+    },
+    {
+        "thread_code": "3801",
+        "thread_name": "Melon Very Dark",
+        "thread_HEX_code": "#E74967",
+        "thread_RGB": [
+            231,
+            73,
+            103
+        ]
+    },
+    {
+        "thread_code": "666",
+        "thread_name": "Bright Red",
+        "thread_HEX_code": "#E31D42",
+        "thread_RGB": [
+            227,
+            29,
+            66
+        ]
+    },
+    {
+        "thread_code": "321",
+        "thread_name": "Red",
+        "thread_HEX_code": "#C72B3B",
+        "thread_RGB": [
+            199,
+            43,
+            59
+        ]
+    },
+    {
+        "thread_code": "304",
+        "thread_name": "Red Medium",
+        "thread_HEX_code": "#B71F33",
+        "thread_RGB": [
+            183,
+            31,
+            51
+        ]
+    },
+    {
+        "thread_code": "498",
+        "thread_name": "Red Dark",
+        "thread_HEX_code": "#A7132B",
+        "thread_RGB": [
+            167,
+            19,
+            43
+        ]
+    },
+    {
+        "thread_code": "816",
+        "thread_name": "Garnet",
+        "thread_HEX_code": "#970B23",
+        "thread_RGB": [
+            151,
+            11,
+            35
+        ]
+    },
+    {
+        "thread_code": "815",
+        "thread_name": "Garnet Medium",
+        "thread_HEX_code": "#87071F",
+        "thread_RGB": [
+            135,
+            7,
+            31
+        ]
+    },
+    {
+        "thread_code": "814",
+        "thread_name": "Garnet Dark",
+        "thread_HEX_code": "#7B001B",
+        "thread_RGB": [
+            123,
+            0,
+            27
+        ]
+    },
+    {
+        "thread_code": "894",
+        "thread_name": "Carnation Very Light",
+        "thread_HEX_code": "#FFB2BB",
+        "thread_RGB": [
+            255,
+            178,
+            187
+        ]
+    },
+    {
+        "thread_code": "893",
+        "thread_name": "Carnation Light",
+        "thread_HEX_code": "#FC90A2",
+        "thread_RGB": [
+            252,
+            144,
+            162
+        ]
+    },
+    {
+        "thread_code": "892",
+        "thread_name": "Carnation Medium",
+        "thread_HEX_code": "#FF798C",
+        "thread_RGB": [
+            255,
+            121,
+            140
+        ]
+    },
+    {
+        "thread_code": "891",
+        "thread_name": "Carnation Dark",
+        "thread_HEX_code": "#FF5773",
+        "thread_RGB": [
+            255,
+            87,
+            115
+        ]
+    },
+    {
+        "thread_code": "818",
+        "thread_name": "Baby Pink",
+        "thread_HEX_code": "#FFDFD9",
+        "thread_RGB": [
+            255,
+            223,
+            217
+        ]
+    },
+    {
+        "thread_code": "957",
+        "thread_name": "Geranium Pale",
+        "thread_HEX_code": "#FDB5B5",
+        "thread_RGB": [
+            253,
+            181,
+            181
+        ]
+    },
+    {
+        "thread_code": "956",
+        "thread_name": "Geranium",
+        "thread_HEX_code": "#FF9191",
+        "thread_RGB": [
+            255,
+            145,
+            145
+        ]
+    },
+    {
+        "thread_code": "309",
+        "thread_name": "Rose Dark",
+        "thread_HEX_code": "#BA4A4A",
+        "thread_RGB": [
+            86,
+            74,
+            74
+        ]
+    },
+    {
+        "thread_code": "963",
+        "thread_name": "Dusty Rose Ultra Very Light",
+        "thread_HEX_code": "#FFD7D7",
+        "thread_RGB": [
+            255,
+            215,
+            215
+        ]
+    },
+    {
+        "thread_code": "3716",
+        "thread_name": "Dusty Rose Medium Very Light",
+        "thread_HEX_code": "#FFBDBD",
+        "thread_RGB": [
+            255,
+            189,
+            189
+        ]
+    },
+    {
+        "thread_code": "962",
+        "thread_name": "Dusty Rose Medium",
+        "thread_HEX_code": "#E68A8A",
+        "thread_RGB": [
+            230,
+            138,
+            138
+        ]
+    },
+    {
+        "thread_code": "961",
+        "thread_name": "Dusty Rose Dark",
+        "thread_HEX_code": "#CF7373",
+        "thread_RGB": [
+            207,
+            115,
+            115
+        ]
+    },
+    {
+        "thread_code": "3833",
+        "thread_name": "Raspberry Light",
+        "thread_HEX_code": "#EA8699",
+        "thread_RGB": [
+            234,
+            134,
+            153
+        ]
+    },
+    {
+        "thread_code": "3832",
+        "thread_name": "Raspberry Medium",
+        "thread_HEX_code": "#DB556E",
+        "thread_RGB": [
+            219,
+            85,
+            110
+        ]
+    },
+    {
+        "thread_code": "3831",
+        "thread_name": "Raspberry Dark",
+        "thread_HEX_code": "#B32F48",
+        "thread_RGB": [
+            179,
+            47,
+            72
+        ]
+    },
+    {
+        "thread_code": "777",
+        "thread_name": "Raspberry Very Dark",
+        "thread_HEX_code": "#913546",
+        "thread_RGB": [
+            145,
+            53,
+            70
+        ]
+    },
+    {
+        "thread_code": "819",
+        "thread_name": "Baby Pink Light",
+        "thread_HEX_code": "#FFEEEB",
+        "thread_RGB": [
+            255,
+            238,
+            235
+        ]
+    },
+    {
+        "thread_code": "3326",
+        "thread_name": "Rose Light",
+        "thread_HEX_code": "#FBADB4",
+        "thread_RGB": [
+            251,
+            173,
+            180
+        ]
+    },
+    {
+        "thread_code": "776",
+        "thread_name": "Pink Medium",
+        "thread_HEX_code": "#FCB0B9",
+        "thread_RGB": [
+            252,
+            176,
+            185
+        ]
+    },
+    {
+        "thread_code": "899",
+        "thread_name": "Rose Medium",
+        "thread_HEX_code": "#F27688",
+        "thread_RGB": [
+            242,
+            118,
+            136
+        ]
+    },
+    {
+        "thread_code": "335",
+        "thread_name": "Rose",
+        "thread_HEX_code": "#EE546E",
+        "thread_RGB": [
+            238,
+            84,
+            110
+        ]
+    },
+    {
+        "thread_code": "326",
+        "thread_name": "Rose Very Dark",
+        "thread_HEX_code": "#B33B4B",
+        "thread_RGB": [
+            179,
+            59,
+            75
+        ]
+    },
+    {
+        "thread_code": "151",
+        "thread_name": "Dusty Rose Very Light",
+        "thread_HEX_code": "#F0CED4",
+        "thread_RGB": [
+            240,
+            206,
+            212
+        ]
+    },
+    {
+        "thread_code": "3354",
+        "thread_name": "Dusty Rose Light",
+        "thread_HEX_code": "#E4A6AC",
+        "thread_RGB": [
+            228,
+            166,
+            172
+        ]
+    },
+    {
+        "thread_code": "3733",
+        "thread_name": "Dusty Rose",
+        "thread_HEX_code": "#E8879B",
+        "thread_RGB": [
+            232,
+            135,
+            155
+        ]
+    },
+    {
+        "thread_code": "3731",
+        "thread_name": "Dusty Rose Very Dark",
+        "thread_HEX_code": "#DA6783",
+        "thread_RGB": [
+            218,
+            103,
+            131
+        ]
+    },
+    {
+        "thread_code": "3350",
+        "thread_name": "Dusty Rose Ultra Dark",
+        "thread_HEX_code": "#BC4365",
+        "thread_RGB": [
+            188,
+            67,
+            101
+        ]
+    },
+    {
+        "thread_code": "150",
+        "thread_name": "Dusty Rose Ultra Very Dark",
+        "thread_HEX_code": "#AB0249",
+        "thread_RGB": [
+            171,
+            2,
+            73
+        ]
+    },
+    {
+        "thread_code": "3689",
+        "thread_name": "Mauve Light",
+        "thread_HEX_code": "#FBBFC2",
+        "thread_RGB": [
+            251,
+            191,
+            194
+        ]
+    },
+    {
+        "thread_code": "3688",
+        "thread_name": "Mauve Medium",
+        "thread_HEX_code": "#E7A9AC",
+        "thread_RGB": [
+            231,
+            169,
+            172
+        ]
+    },
+    {
+        "thread_code": "3687",
+        "thread_name": "Mauve",
+        "thread_HEX_code": "#C96B70",
+        "thread_RGB": [
+            201,
+            107,
+            112
+        ]
+    },
+    {
+        "thread_code": "3803",
+        "thread_name": "Mauve Dark",
+        "thread_HEX_code": "#AB3357",
+        "thread_RGB": [
+            171,
+            51,
+            87
+        ]
+    },
+    {
+        "thread_code": "3685",
+        "thread_name": "Mauve Very Dark",
+        "thread_HEX_code": "#881531",
+        "thread_RGB": [
+            136,
+            21,
+            49
+        ]
+    },
+    {
+        "thread_code": "605",
+        "thread_name": "Cranberry Very Light",
+        "thread_HEX_code": "#FFC0CD",
+        "thread_RGB": [
+            255,
+            192,
+            205
+        ]
+    },
+    {
+        "thread_code": "604",
+        "thread_name": "Cranberry Light",
+        "thread_HEX_code": "#FFB0BE",
+        "thread_RGB": [
+            255,
+            176,
+            190
+        ]
+    },
+    {
+        "thread_code": "603",
+        "thread_name": "Cranberry",
+        "thread_HEX_code": "#FFA4BE",
+        "thread_RGB": [
+            255,
+            164,
+            190
+        ]
+    },
+    {
+        "thread_code": "602",
+        "thread_name": "Cranberry Medium",
+        "thread_HEX_code": "#E24874",
+        "thread_RGB": [
+            226,
+            72,
+            116
+        ]
+    },
+    {
+        "thread_code": "601",
+        "thread_name": "Cranberry Dark",
+        "thread_HEX_code": "#D1286A",
+        "thread_RGB": [
+            209,
+            40,
+            106
+        ]
+    },
+    {
+        "thread_code": "600",
+        "thread_name": "Cranberry Very Dark",
+        "thread_HEX_code": "#CD2F63",
+        "thread_RGB": [
+            205,
+            47,
+            99
+        ]
+    },
+    {
+        "thread_code": "3806",
+        "thread_name": "Cyclamen Pink Light",
+        "thread_HEX_code": "#FF8CAE",
+        "thread_RGB": [
+            255,
+            140,
+            174
+        ]
+    },
+    {
+        "thread_code": "3805",
+        "thread_name": "Cyclamen Pink",
+        "thread_HEX_code": "#F3478B",
+        "thread_RGB": [
+            243,
+            71,
+            139
+        ]
+    },
+    {
+        "thread_code": "3804",
+        "thread_name": "Cyclamen Pink Dark",
+        "thread_HEX_code": "#E02876",
+        "thread_RGB": [
+            224,
+            40,
+            118
+        ]
+    },
+    {
+        "thread_code": "3609",
+        "thread_name": "Plum Ultra Light",
+        "thread_HEX_code": "#F4AED7",
+        "thread_RGB": [
+            244,
+            174,
+            213
+        ]
+    },
+    {
+        "thread_code": "3608",
+        "thread_name": "Plum Very Light",
+        "thread_HEX_code": "#EA9CC4",
+        "thread_RGB": [
+            234,
+            156,
+            196
+        ]
+    },
+    {
+        "thread_code": "3607",
+        "thread_name": "Plum Light",
+        "thread_HEX_code": "#C54989",
+        "thread_RGB": [
+            197,
+            73,
+            137
+        ]
+    },
+    {
+        "thread_code": "718",
+        "thread_name": "Plum",
+        "thread_HEX_code": "#9C2462",
+        "thread_RGB": [
+            156,
+            36,
+            98
+        ]
+    },
+    {
+        "thread_code": "917",
+        "thread_name": "Plum Medium",
+        "thread_HEX_code": "#9B1359",
+        "thread_RGB": [
+            155,
+            19,
+            89
+        ]
+    },
+    {
+        "thread_code": "915",
+        "thread_name": "Plum Dark",
+        "thread_HEX_code": "#820043",
+        "thread_RGB": [
+            130,
+            0,
+            67
+        ]
+    },
+    {
+        "thread_code": "225",
+        "thread_name": "Shell Pink Ultra Very Light",
+        "thread_HEX_code": "#FFDFD7",
+        "thread_RGB": [
+            255,
+            223,
+            213
+        ]
+    },
+    {
+        "thread_code": "224",
+        "thread_name": "Shell Pink Very Light",
+        "thread_HEX_code": "#EBB7AF",
+        "thread_RGB": [
+            235,
+            183,
+            175
+        ]
+    },
+    {
+        "thread_code": "152",
+        "thread_name": "Shell Pink Medium Light",
+        "thread_HEX_code": "#E2A099",
+        "thread_RGB": [
+            226,
+            160,
+            153
+        ]
+    },
+    {
+        "thread_code": "223",
+        "thread_name": "Shell Pink Light",
+        "thread_HEX_code": "#CC847C",
+        "thread_RGB": [
+            204,
+            132,
+            124
+        ]
+    },
+    {
+        "thread_code": "3722",
+        "thread_name": "Shell Pink Medium",
+        "thread_HEX_code": "#BC6C64",
+        "thread_RGB": [
+            188,
+            108,
+            100
+        ]
+    },
+    {
+        "thread_code": "3721",
+        "thread_name": "Shell Pink Dark",
+        "thread_HEX_code": "#A14B51",
+        "thread_RGB": [
+            161,
+            75,
+            81
+        ]
+    },
+    {
+        "thread_code": "221",
+        "thread_name": "Shell Pink Very Dark",
+        "thread_HEX_code": "#883E43",
+        "thread_RGB": [
+            136,
+            62,
+            67
+        ]
+    },
+    {
+        "thread_code": "778",
+        "thread_name": "Antique Mauve Very Light",
+        "thread_HEX_code": "#DFB3BB",
+        "thread_RGB": [
+            223,
+            179,
+            187
+        ]
+    },
+    {
+        "thread_code": "3727",
+        "thread_name": "Antique Mauve Light",
+        "thread_HEX_code": "#DBA9B2",
+        "thread_RGB": [
+            219,
+            169,
+            178
+        ]
+    },
+    {
+        "thread_code": "316",
+        "thread_name": "Antique Mauve Medium",
+        "thread_HEX_code": "#B7737F",
+        "thread_RGB": [
+            183,
+            115,
+            127
+        ]
+    },
+    {
+        "thread_code": "3726",
+        "thread_name": "Antique Mauve Dark",
+        "thread_HEX_code": "#9B5B66",
+        "thread_RGB": [
+            155,
+            91,
+            102
+        ]
+    },
+    {
+        "thread_code": "315",
+        "thread_name": "Antique Mauve Medium Dark",
+        "thread_HEX_code": "#814952",
+        "thread_RGB": [
+            129,
+            73,
+            82
+        ]
+    },
+    {
+        "thread_code": "3802",
+        "thread_name": "Antique Mauve Very Darkv",
+        "thread_HEX_code": "#714149",
+        "thread_RGB": [
+            113,
+            65,
+            73
+        ]
+    },
+    {
+        "thread_code": "902",
+        "thread_name": "Garnet Very Dark",
+        "thread_HEX_code": "#822637",
+        "thread_RGB": [
+            130,
+            38,
+            55
+        ]
+    },
+    {
+        "thread_code": "3743",
+        "thread_name": "Antique Violet Very Light",
+        "thread_HEX_code": "#D7CBD3",
+        "thread_RGB": [
+            215,
+            203,
+            211
+        ]
+    },
+    {
+        "thread_code": "3042",
+        "thread_name": "Antique Violet Light",
+        "thread_HEX_code": "#B79DA7",
+        "thread_RGB": [
+            183,
+            157,
+            167
+        ]
+    },
+    {
+        "thread_code": "3041",
+        "thread_name": "Antique Violet Medium",
+        "thread_HEX_code": "#956F7C",
+        "thread_RGB": [
+            149,
+            111,
+            124
+        ]
+    },
+    {
+        "thread_code": "3740",
+        "thread_name": "Antique Violet Dark",
+        "thread_HEX_code": "#785762",
+        "thread_RGB": [
+            120,
+            87,
+            98
+        ]
+    },
+    {
+        "thread_code": "3836",
+        "thread_name": "Grape Light",
+        "thread_HEX_code": "#BA91AA",
+        "thread_RGB": [
+            186,
+            145,
+            170
+        ]
+    },
+    {
+        "thread_code": "3835",
+        "thread_name": "Grape Medium",
+        "thread_HEX_code": "#946083",
+        "thread_RGB": [
+            148,
+            96,
+            131
+        ]
+    },
+    {
+        "thread_code": "3834",
+        "thread_name": "Grape Dark",
+        "thread_HEX_code": "#72375D",
+        "thread_RGB": [
+            114,
+            55,
+            93
+        ]
+    },
+    {
+        "thread_code": "154",
+        "thread_name": "Grape Very Dark",
+        "thread_HEX_code": "#572433",
+        "thread_RGB": [
+            87,
+            36,
+            51
+        ]
+    },
+    {
+        "thread_code": "211",
+        "thread_name": "Lavender Light",
+        "thread_HEX_code": "#E3CBE3",
+        "thread_RGB": [
+            227,
+            203,
+            227
+        ]
+    },
+    {
+        "thread_code": "210",
+        "thread_name": "Lavender Medium",
+        "thread_HEX_code": "#D29FC3",
+        "thread_RGB": [
+            195,
+            159,
+            195
+        ]
+    },
+    {
+        "thread_code": "209",
+        "thread_name": "Lavender Dark",
+        "thread_HEX_code": "#A37BA7",
+        "thread_RGB": [
+            163,
+            123,
+            167
+        ]
+    },
+    {
+        "thread_code": "208",
+        "thread_name": "Lavender Very Dark",
+        "thread_HEX_code": "#835B8B",
+        "thread_RGB": [
+            131,
+            91,
+            139
+        ]
+    },
+    {
+        "thread_code": "3837",
+        "thread_name": "Lavender Ultra Dark",
+        "thread_HEX_code": "#6C3A6E",
+        "thread_RGB": [
+            108,
+            58,
+            110
+        ]
+    },
+    {
+        "thread_code": "327",
+        "thread_name": "Violet Dark",
+        "thread_HEX_code": "#633666",
+        "thread_RGB": [
+            99,
+            54,
+            102
+        ]
+    },
+    {
+        "thread_code": "153",
+        "thread_name": "Violet Very Light",
+        "thread_HEX_code": "#E6CCD9",
+        "thread_RGB": [
+            230,
+            204,
+            217
+        ]
+    },
+    {
+        "thread_code": "554",
+        "thread_name": "Violet Light",
+        "thread_HEX_code": "#DBB3CB",
+        "thread_RGB": [
+            219,
+            179,
+            203
+        ]
+    },
+    {
+        "thread_code": "553",
+        "thread_name": "Violet",
+        "thread_HEX_code": "#A3638B",
+        "thread_RGB": [
+            163,
+            99,
+            139
+        ]
+    },
+    {
+        "thread_code": "552",
+        "thread_name": "Violet Medium",
+        "thread_HEX_code": "#803A6B",
+        "thread_RGB": [
+            128,
+            58,
+            107
+        ]
+    },
+    {
+        "thread_code": "550",
+        "thread_name": "Violet Very Dark",
+        "thread_HEX_code": "#5C184E",
+        "thread_RGB": [
+            92,
+            24,
+            78
+        ]
+    },
+    {
+        "thread_code": "3747",
+        "thread_name": "Blue Violet Very Light",
+        "thread_HEX_code": "#D3D7ED",
+        "thread_RGB": [
+            211,
+            215,
+            237
+        ]
+    },
+    {
+        "thread_code": "341",
+        "thread_name": "Blue Violet Light",
+        "thread_HEX_code": "#B7BFDD",
+        "thread_RGB": [
+            183,
+            191,
+            221
+        ]
+    },
+    {
+        "thread_code": "156",
+        "thread_name": "Blue Violet Medium Light",
+        "thread_HEX_code": "#A3AED1",
+        "thread_RGB": [
+            163,
+            174,
+            209
+        ]
+    },
+    {
+        "thread_code": "340",
+        "thread_name": "Blue Violet Medium",
+        "thread_HEX_code": "#ADA7C7",
+        "thread_RGB": [
+            173,
+            167,
+            199
+        ]
+    },
+    {
+        "thread_code": "155",
+        "thread_name": "Blue Violet Medium Dark",
+        "thread_HEX_code": "#9891B6",
+        "thread_RGB": [
+            152,
+            145,
+            182
+        ]
+    },
+    {
+        "thread_code": "3746",
+        "thread_name": "Blue Violet Dark",
+        "thread_HEX_code": "#776B98",
+        "thread_RGB": [
+            119,
+            107,
+            152
+        ]
+    },
+    {
+        "thread_code": "333",
+        "thread_name": "Blue Violet Very Dark",
+        "thread_HEX_code": "#5C5478",
+        "thread_RGB": [
+            92,
+            84,
+            120
+        ]
+    },
+    {
+        "thread_code": "157",
+        "thread_name": "Cornflower Blue Very Light",
+        "thread_HEX_code": "#BBC3D9",
+        "thread_RGB": [
+            187,
+            195,
+            217
+        ]
+    },
+    {
+        "thread_code": "794",
+        "thread_name": "Cornflower Blue Light",
+        "thread_HEX_code": "#8F9CC1",
+        "thread_RGB": [
+            143,
+            156,
+            193
+        ]
+    },
+    {
+        "thread_code": "793",
+        "thread_name": "Cornflower Blue Medium",
+        "thread_HEX_code": "#707DA2",
+        "thread_RGB": [
+            112,
+            125,
+            162
+        ]
+    },
+    {
+        "thread_code": "3807",
+        "thread_name": "Cornflower Blue",
+        "thread_HEX_code": "#60678C",
+        "thread_RGB": [
+            96,
+            103,
+            140
+        ]
+    },
+    {
+        "thread_code": "792",
+        "thread_name": "Cornflower Blue Dark",
+        "thread_HEX_code": "#555B7B",
+        "thread_RGB": [
+            85,
+            91,
+            123
+        ]
+    },
+    {
+        "thread_code": "158",
+        "thread_name": "Cornflower Blue Very Dark",
+        "thread_HEX_code": "#4C526E",
+        "thread_RGB": [
+            76,
+            82,
+            110
+        ]
+    },
+    {
+        "thread_code": "791",
+        "thread_name": "Cornflower Blue Very Dark",
+        "thread_HEX_code": "#464563",
+        "thread_RGB": [
+            70,
+            69,
+            99
+        ]
+    },
+    {
+        "thread_code": "3840",
+        "thread_name": "Lavender Blue Light",
+        "thread_HEX_code": "#B0C0DA",
+        "thread_RGB": [
+            176,
+            192,
+            218
+        ]
+    },
+    {
+        "thread_code": "3839",
+        "thread_name": "Lavender Blue Medium",
+        "thread_HEX_code": "#7B8EAB",
+        "thread_RGB": [
+            123,
+            142,
+            171
+        ]
+    },
+    {
+        "thread_code": "3838",
+        "thread_name": "Lavender Blue Dark",
+        "thread_HEX_code": "#5C7294",
+        "thread_RGB": [
+            92,
+            114,
+            148
+        ]
+    },
+    {
+        "thread_code": "800",
+        "thread_name": "Delft Blue Pale",
+        "thread_HEX_code": "#C0CCDE",
+        "thread_RGB": [
+            192,
+            204,
+            222
+        ]
+    },
+    {
+        "thread_code": "809",
+        "thread_name": "Delft Blue",
+        "thread_HEX_code": "#94A8C6",
+        "thread_RGB": [
+            148,
+            168,
+            198
+        ]
+    },
+    {
+        "thread_code": "799",
+        "thread_name": "Delft Blue Medium",
+        "thread_HEX_code": "#748EB6",
+        "thread_RGB": [
+            116,
+            142,
+            182
+        ]
+    },
+    {
+        "thread_code": "798",
+        "thread_name": "Delft Blue Dark",
+        "thread_HEX_code": "#466A8E",
+        "thread_RGB": [
+            70,
+            106,
+            142
+        ]
+    },
+    {
+        "thread_code": "797",
+        "thread_name": "Royal Blue",
+        "thread_HEX_code": "#13477D",
+        "thread_RGB": [
+            19,
+            71,
+            125
+        ]
+    },
+    {
+        "thread_code": "796",
+        "thread_name": "Royal Blue Dark",
+        "thread_HEX_code": "#11416D",
+        "thread_RGB": [
+            17,
+            65,
+            109
+        ]
+    },
+    {
+        "thread_code": "820",
+        "thread_name": "Royal Blue Very Dark",
+        "thread_HEX_code": "#0E365C",
+        "thread_RGB": [
+            14,
+            54,
+            92
+        ]
+    },
+    {
+        "thread_code": "162",
+        "thread_name": "Blue Ultra Very Light",
+        "thread_HEX_code": "#DBECF5",
+        "thread_RGB": [
+            219,
+            236,
+            245
+        ]
+    },
+    {
+        "thread_code": "827",
+        "thread_name": "Blue Very Light",
+        "thread_HEX_code": "#BDDDED",
+        "thread_RGB": [
+            189,
+            221,
+            237
+        ]
+    },
+    {
+        "thread_code": "813",
+        "thread_name": "Blue Light",
+        "thread_HEX_code": "#A1C2D7",
+        "thread_RGB": [
+            161,
+            194,
+            215
+        ]
+    },
+    {
+        "thread_code": "826",
+        "thread_name": "Blue Medium",
+        "thread_HEX_code": "#6B9EBF",
+        "thread_RGB": [
+            107,
+            158,
+            191
+        ]
+    },
+    {
+        "thread_code": "825",
+        "thread_name": "Blue Dark",
+        "thread_HEX_code": "#4781A5",
+        "thread_RGB": [
+            71,
+            129,
+            165
+        ]
+    },
+    {
+        "thread_code": "824",
+        "thread_name": "Blue Very Dark",
+        "thread_HEX_code": "#396987",
+        "thread_RGB": [
+            57,
+            105,
+            135
+        ]
+    },
+    {
+        "thread_code": "996",
+        "thread_name": "Electric Blue Medium",
+        "thread_HEX_code": "#30C2EC",
+        "thread_RGB": [
+            48,
+            194,
+            236
+        ]
+    },
+    {
+        "thread_code": "3843",
+        "thread_name": "Electric Blue",
+        "thread_HEX_code": "#14AAD0",
+        "thread_RGB": [
+            20,
+            170,
+            208
+        ]
+    },
+    {
+        "thread_code": "995",
+        "thread_name": "Electric Blue Dark",
+        "thread_HEX_code": "#2696B6",
+        "thread_RGB": [
+            38,
+            150,
+            182
+        ]
+    },
+    {
+        "thread_code": "3846",
+        "thread_name": "Turquoise Bright Light",
+        "thread_HEX_code": "#06E3E6",
+        "thread_RGB": [
+            6,
+            227,
+            230
+        ]
+    },
+    {
+        "thread_code": "3845",
+        "thread_name": "Turquoise Bright Medium",
+        "thread_HEX_code": "#04C4CA",
+        "thread_RGB": [
+            4,
+            196,
+            202
+        ]
+    },
+    {
+        "thread_code": "3844",
+        "thread_name": "Turquoise Bright Dark",
+        "thread_HEX_code": "#12AEBA",
+        "thread_RGB": [
+            18,
+            174,
+            186
+        ]
+    },
+    {
+        "thread_code": "159",
+        "thread_name": "Blue Gray Light",
+        "thread_HEX_code": "#C7CAD7",
+        "thread_RGB": [
+            199,
+            202,
+            215
+        ]
+    },
+    {
+        "thread_code": "160",
+        "thread_name": "Blue Gray Medium",
+        "thread_HEX_code": "#999FB7",
+        "thread_RGB": [
+            153,
+            159,
+            183
+        ]
+    },
+    {
+        "thread_code": "161",
+        "thread_name": "Blue Gray",
+        "thread_HEX_code": "#7880A4",
+        "thread_RGB": [
+            120,
+            128,
+            164
+        ]
+    },
+    {
+        "thread_code": "3756",
+        "thread_name": "Baby Blue Ultra Very Light",
+        "thread_HEX_code": "#EEFCFC",
+        "thread_RGB": [
+            238,
+            252,
+            252
+        ]
+    },
+    {
+        "thread_code": "775",
+        "thread_name": "Baby Blue Very Light",
+        "thread_HEX_code": "#D9EBF1",
+        "thread_RGB": [
+            217,
+            235,
+            241
+        ]
+    },
+    {
+        "thread_code": "3841",
+        "thread_name": "Baby Blue Pale",
+        "thread_HEX_code": "#CDDFED",
+        "thread_RGB": [
+            205,
+            223,
+            237
+        ]
+    },
+    {
+        "thread_code": "3325",
+        "thread_name": "Baby Blue Light",
+        "thread_HEX_code": "#B8D2E6",
+        "thread_RGB": [
+            184,
+            210,
+            230
+        ]
+    },
+    {
+        "thread_code": "3755",
+        "thread_name": "Baby Blue",
+        "thread_HEX_code": "#92B4CE",
+        "thread_RGB": [
+            147,
+            180,
+            206
+        ]
+    },
+    {
+        "thread_code": "334",
+        "thread_name": "Baby Blue Medium",
+        "thread_HEX_code": "#739FC1",
+        "thread_RGB": [
+            115,
+            159,
+            193
+        ]
+    },
+    {
+        "thread_code": "322",
+        "thread_name": "Baby Blue Dark",
+        "thread_HEX_code": "#5A8FB8",
+        "thread_RGB": [
+            90,
+            143,
+            184
+        ]
+    },
+    {
+        "thread_code": "312",
+        "thread_name": "Baby Blue Very Dark",
+        "thread_HEX_code": "#35668B",
+        "thread_RGB": [
+            53,
+            102,
+            139
+        ]
+    },
+    {
+        "thread_code": "803",
+        "thread_name": "Baby Blue Ultra Very Dark",
+        "thread_HEX_code": "#2C597C",
+        "thread_RGB": [
+            44,
+            89,
+            124
+        ]
+    },
+    {
+        "thread_code": "336",
+        "thread_name": "Navy Blue",
+        "thread_HEX_code": "#253B73",
+        "thread_RGB": [
+            37,
+            59,
+            115
+        ]
+    },
+    {
+        "thread_code": "823",
+        "thread_name": "Navy Blue Dark",
+        "thread_HEX_code": "#213063",
+        "thread_RGB": [
+            33,
+            48,
+            99
+        ]
+    },
+    {
+        "thread_code": "939",
+        "thread_name": "Navy Blue Very Dark",
+        "thread_HEX_code": "#1B2853",
+        "thread_RGB": [
+            27,
+            40,
+            83
+        ]
+    },
+    {
+        "thread_code": "3753",
+        "thread_name": "Antique Blue Ultra Very Light",
+        "thread_HEX_code": "#DBE2E9",
+        "thread_RGB": [
+            219,
+            226,
+            233
+        ]
+    },
+    {
+        "thread_code": "3752",
+        "thread_name": "Antique Blue Very Light",
+        "thread_HEX_code": "#C7D1DB",
+        "thread_RGB": [
+            199,
+            209,
+            219
+        ]
+    },
+    {
+        "thread_code": "932",
+        "thread_name": "Antique Blue Light",
+        "thread_HEX_code": "#A2B5C6",
+        "thread_RGB": [
+            162,
+            181,
+            198
+        ]
+    },
+    {
+        "thread_code": "931",
+        "thread_name": "Antique Blue Medium",
+        "thread_HEX_code": "#6A859E",
+        "thread_RGB": [
+            106,
+            133,
+            158
+        ]
+    },
+    {
+        "thread_code": "930",
+        "thread_name": "Antique Blue Dark",
+        "thread_HEX_code": "#455C71",
+        "thread_RGB": [
+            69,
+            92,
+            113
+        ]
+    },
+    {
+        "thread_code": "3750",
+        "thread_name": "Antique Blue Very Dark",
+        "thread_HEX_code": "#384C5E",
+        "thread_RGB": [
+            56,
+            76,
+            94
+        ]
+    },
+    {
+        "thread_code": "828",
+        "thread_name": "Sky Blue Very Light",
+        "thread_HEX_code": "#C5E8ED",
+        "thread_RGB": [
+            197,
+            232,
+            237
+        ]
+    },
+    {
+        "thread_code": "3761",
+        "thread_name": "Sky Blue Light",
+        "thread_HEX_code": "#ACD8E2",
+        "thread_RGB": [
+            172,
+            216,
+            226
+        ]
+    },
+    {
+        "thread_code": "519",
+        "thread_name": "Sky Blue",
+        "thread_HEX_code": "#7EB1C8",
+        "thread_RGB": [
+            126,
+            177,
+            200
+        ]
+    },
+    {
+        "thread_code": "518",
+        "thread_name": "Wedgewood Light",
+        "thread_HEX_code": "#4F93A7",
+        "thread_RGB": [
+            79,
+            147,
+            167
+        ]
+    },
+    {
+        "thread_code": "3760",
+        "thread_name": "Wedgewood Medium",
+        "thread_HEX_code": "#3E85A2",
+        "thread_RGB": [
+            62,
+            133,
+            162
+        ]
+    },
+    {
+        "thread_code": "517",
+        "thread_name": "Wedgewood Dark",
+        "thread_HEX_code": "#3B768F",
+        "thread_RGB": [
+            59,
+            118,
+            143
+        ]
+    },
+    {
+        "thread_code": "3842",
+        "thread_name": "Wedgewood Very Dark",
+        "thread_HEX_code": "#32667C",
+        "thread_RGB": [
+            50,
+            102,
+            124
+        ]
+    },
+    {
+        "thread_code": "311",
+        "thread_name": "Wedgewood Ultra Very Dark",
+        "thread_HEX_code": "#1C5066",
+        "thread_RGB": [
+            28,
+            80,
+            102
+        ]
+    },
+    {
+        "thread_code": "747",
+        "thread_name": "Peacock Blue Very Light",
+        "thread_HEX_code": "#E5FCFD",
+        "thread_RGB": [
+            229,
+            252,
+            253
+        ]
+    },
+    {
+        "thread_code": "3766",
+        "thread_name": "Peacock Blue Light",
+        "thread_HEX_code": "#99CFD9",
+        "thread_RGB": [
+            153,
+            207,
+            217
+        ]
+    },
+    {
+        "thread_code": "807",
+        "thread_name": "Peacock Blue",
+        "thread_HEX_code": "#64ABBA",
+        "thread_RGB": [
+            100,
+            171,
+            186
+        ]
+    },
+    {
+        "thread_code": "806",
+        "thread_name": "Peacock Blue Dark",
+        "thread_HEX_code": "#3D95A5",
+        "thread_RGB": [
+            61,
+            149,
+            165
+        ]
+    },
+    {
+        "thread_code": "3765",
+        "thread_name": "Peacock Blue Very Dark",
+        "thread_HEX_code": "#347F8C",
+        "thread_RGB": [
+            52,
+            127,
+            140
+        ]
+    },
+    {
+        "thread_code": "3811",
+        "thread_name": "Turquoise Very Light",
+        "thread_HEX_code": "#BCE3E6",
+        "thread_RGB": [
+            188,
+            227,
+            230
+        ]
+    },
+    {
+        "thread_code": "598",
+        "thread_name": "Turquoise Light",
+        "thread_HEX_code": "#90C3CC",
+        "thread_RGB": [
+            144,
+            195,
+            204
+        ]
+    },
+    {
+        "thread_code": "597",
+        "thread_name": "Turquoise",
+        "thread_HEX_code": "#5BA3B3",
+        "thread_RGB": [
+            91,
+            163,
+            179
+        ]
+    },
+    {
+        "thread_code": "3810",
+        "thread_name": "Turquoise Dark",
+        "thread_HEX_code": "#488E9A",
+        "thread_RGB": [
+            72,
+            142,
+            154
+        ]
+    },
+    {
+        "thread_code": "3809",
+        "thread_name": "Turquoise Vy Dark",
+        "thread_HEX_code": "#3F7C85",
+        "thread_RGB": [
+            63,
+            124,
+            133
+        ]
+    },
+    {
+        "thread_code": "3808",
+        "thread_name": "Turquoise Ultra Very Dark",
+        "thread_HEX_code": "#366970",
+        "thread_RGB": [
+            54,
+            105,
+            112
+        ]
+    },
+    {
+        "thread_code": "928",
+        "thread_name": "Gray Green Very Light",
+        "thread_HEX_code": "#DDE3E3",
+        "thread_RGB": [
+            221,
+            227,
+            227
+        ]
+    },
+    {
+        "thread_code": "927",
+        "thread_name": "Gray Green Light",
+        "thread_HEX_code": "#BDCBCB",
+        "thread_RGB": [
+            189,
+            203,
+            203
+        ]
+    },
+    {
+        "thread_code": "926",
+        "thread_name": "Gray Green Medium",
+        "thread_HEX_code": "#98AEAE",
+        "thread_RGB": [
+            152,
+            174,
+            174
+        ]
+    },
+    {
+        "thread_code": "3768",
+        "thread_name": "Gray Green Dark",
+        "thread_HEX_code": "#657F7F",
+        "thread_RGB": [
+            101,
+            127,
+            127
+        ]
+    },
+    {
+        "thread_code": "924",
+        "thread_name": "Gray Green Vy Dark",
+        "thread_HEX_code": "#566A6A",
+        "thread_RGB": [
+            86,
+            106,
+            106
+        ]
+    },
+    {
+        "thread_code": "3849",
+        "thread_name": "Teal Green Light",
+        "thread_HEX_code": "#52B3AE",
+        "thread_RGB": [
+            82,
+            179,
+            164
+        ]
+    },
+    {
+        "thread_code": "3848",
+        "thread_name": "Teal Green Medium",
+        "thread_HEX_code": "#419392",
+        "thread_RGB": [
+            85,
+            147,
+            146
+        ]
+    },
+    {
+        "thread_code": "3847",
+        "thread_name": "Teal Green Dark",
+        "thread_HEX_code": "#347D75",
+        "thread_RGB": [
+            52,
+            125,
+            117
+        ]
+    },
+    {
+        "thread_code": "964",
+        "thread_name": "Sea Green Light",
+        "thread_HEX_code": "#A9E2D8",
+        "thread_RGB": [
+            169,
+            226,
+            216
+        ]
+    },
+    {
+        "thread_code": "959",
+        "thread_name": "Sea Green Medium",
+        "thread_HEX_code": "#59C7B4",
+        "thread_RGB": [
+            89,
+            199,
+            180
+        ]
+    },
+    {
+        "thread_code": "958",
+        "thread_name": "Sea Green Dark",
+        "thread_HEX_code": "#3EB6A1",
+        "thread_RGB": [
+            62,
+            182,
+            161
+        ]
+    },
+    {
+        "thread_code": "3812",
+        "thread_name": "Sea Green Very Dark",
+        "thread_HEX_code": "#2F8C84",
+        "thread_RGB": [
+            47,
+            140,
+            132
+        ]
+    },
+    {
+        "thread_code": "3851",
+        "thread_name": "Green Bright Light",
+        "thread_HEX_code": "#49B3A1",
+        "thread_RGB": [
+            73,
+            179,
+            161
+        ]
+    },
+    {
+        "thread_code": "943",
+        "thread_name": "Green Bright Medium",
+        "thread_HEX_code": "#3D9384",
+        "thread_RGB": [
+            61,
+            147,
+            132
+        ]
+    },
+    {
+        "thread_code": "3850",
+        "thread_name": "Green Bright Dark",
+        "thread_HEX_code": "#378477",
+        "thread_RGB": [
+            55,
+            132,
+            119
+        ]
+    },
+    {
+        "thread_code": "993",
+        "thread_name": "Aquamarine Very Light",
+        "thread_HEX_code": "#90C0B4",
+        "thread_RGB": [
+            144,
+            192,
+            180
+        ]
+    },
+    {
+        "thread_code": "992",
+        "thread_name": "Aquamarine Light",
+        "thread_HEX_code": "#6FAE9F",
+        "thread_RGB": [
+            111,
+            174,
+            159
+        ]
+    },
+    {
+        "thread_code": "3814",
+        "thread_name": "Aquamarine",
+        "thread_HEX_code": "#508B7D",
+        "thread_RGB": [
+            80,
+            139,
+            125
+        ]
+    },
+    {
+        "thread_code": "991",
+        "thread_name": "Aquamarine Dark",
+        "thread_HEX_code": "#477B6E",
+        "thread_RGB": [
+            71,
+            123,
+            110
+        ]
+    },
+    {
+        "thread_code": "966",
+        "thread_name": "Jade Ultra Very Light",
+        "thread_HEX_code": "#B9D7C0",
+        "thread_RGB": [
+            185,
+            215,
+            192
+        ]
+    },
+    {
+        "thread_code": "564",
+        "thread_name": "Jade Very Light",
+        "thread_HEX_code": "#A7CDAF",
+        "thread_RGB": [
+            167,
+            205,
+            175
+        ]
+    },
+    {
+        "thread_code": "563",
+        "thread_name": "Jade Light",
+        "thread_HEX_code": "#8FC098",
+        "thread_RGB": [
+            143,
+            192,
+            152
+        ]
+    },
+    {
+        "thread_code": "562",
+        "thread_name": "Jade Medium",
+        "thread_HEX_code": "#53976A",
+        "thread_RGB": [
+            83,
+            151,
+            106
+        ]
+    },
+    {
+        "thread_code": "505",
+        "thread_name": "Jade Green",
+        "thread_HEX_code": "#338362",
+        "thread_RGB": [
+            51,
+            131,
+            98
+        ]
+    },
+    {
+        "thread_code": "3817",
+        "thread_name": "Celadon Green Light",
+        "thread_HEX_code": "#99C3AA",
+        "thread_RGB": [
+            153,
+            195,
+            170
+        ]
+    },
+    {
+        "thread_code": "3816",
+        "thread_name": "Celadon Green",
+        "thread_HEX_code": "#65A57D",
+        "thread_RGB": [
+            101,
+            165,
+            125
+        ]
+    },
+    {
+        "thread_code": "163",
+        "thread_name": "Celadon Green Medium",
+        "thread_HEX_code": "#4D8361",
+        "thread_RGB": [
+            77,
+            131,
+            97
+        ]
+    },
+    {
+        "thread_code": "3815",
+        "thread_name": "Celadon Green Dark",
+        "thread_HEX_code": "#477759",
+        "thread_RGB": [
+            71,
+            119,
+            89
+        ]
+    },
+    {
+        "thread_code": "561",
+        "thread_name": "Celadon Green VD",
+        "thread_HEX_code": "#2C6A45",
+        "thread_RGB": [
+            44,
+            106,
+            69
+        ]
+    },
+    {
+        "thread_code": "504",
+        "thread_name": "Blue Green Very Light",
+        "thread_HEX_code": "#C4DECC",
+        "thread_RGB": [
+            196,
+            222,
+            204
+        ]
+    },
+    {
+        "thread_code": "3813",
+        "thread_name": "Blue Green Light",
+        "thread_HEX_code": "#B2D4BD",
+        "thread_RGB": [
+            178,
+            212,
+            189
+        ]
+    },
+    {
+        "thread_code": "503",
+        "thread_name": "Blue Green Medium",
+        "thread_HEX_code": "#7BAC94",
+        "thread_RGB": [
+            123,
+            172,
+            148
+        ]
+    },
+    {
+        "thread_code": "502",
+        "thread_name": "Blue Green",
+        "thread_HEX_code": "#5B9071",
+        "thread_RGB": [
+            91,
+            144,
+            113
+        ]
+    },
+    {
+        "thread_code": "501",
+        "thread_name": "Blue Green Dark",
+        "thread_HEX_code": "#396F52",
+        "thread_RGB": [
+            57,
+            111,
+            82
+        ]
+    },
+    {
+        "thread_code": "500",
+        "thread_name": "Blue Green Very Dark",
+        "thread_HEX_code": "#044D33",
+        "thread_RGB": [
+            4,
+            77,
+            51
+        ]
+    },
+    {
+        "thread_code": "955",
+        "thread_name": "Nile Green Light",
+        "thread_HEX_code": "#A2D6AD",
+        "thread_RGB": [
+            162,
+            214,
+            173
+        ]
+    },
+    {
+        "thread_code": "954",
+        "thread_name": "Nile Green",
+        "thread_HEX_code": "#88BA91",
+        "thread_RGB": [
+            136,
+            186,
+            145
+        ]
+    },
+    {
+        "thread_code": "913",
+        "thread_name": "Nile Green Medium",
+        "thread_HEX_code": "#6DAB77",
+        "thread_RGB": [
+            109,
+            171,
+            119
+        ]
+    },
+    {
+        "thread_code": "912",
+        "thread_name": "Emerald Green Light",
+        "thread_HEX_code": "#1B9D6B",
+        "thread_RGB": [
+            27,
+            157,
+            107
+        ]
+    },
+    {
+        "thread_code": "911",
+        "thread_name": "Emerald Green Medium",
+        "thread_HEX_code": "#189065",
+        "thread_RGB": [
+            24,
+            144,
+            101
+        ]
+    },
+    {
+        "thread_code": "910",
+        "thread_name": "Emerald Green Dark",
+        "thread_HEX_code": "#187E56",
+        "thread_RGB": [
+            24,
+            126,
+            86
+        ]
+    },
+    {
+        "thread_code": "909",
+        "thread_name": "Emerald Green Very Dark",
+        "thread_HEX_code": "#156F49",
+        "thread_RGB": [
+            21,
+            111,
+            73
+        ]
+    },
+    {
+        "thread_code": "3818",
+        "thread_name": "Emerald Green Ultra Very Dark",
+        "thread_HEX_code": "#115A3B",
+        "thread_RGB": [
+            17,
+            90,
+            59
+        ]
+    },
+    {
+        "thread_code": "369",
+        "thread_name": "Pistachio Green Very Light",
+        "thread_HEX_code": "#D7EDCC",
+        "thread_RGB": [
+            215,
+            237,
+            204
+        ]
+    },
+    {
+        "thread_code": "368",
+        "thread_name": "Pistachio Green Light",
+        "thread_HEX_code": "#A6C298",
+        "thread_RGB": [
+            166,
+            194,
+            152
+        ]
+    },
+    {
+        "thread_code": "320",
+        "thread_name": "Pistachio Green Medium",
+        "thread_HEX_code": "#69885A",
+        "thread_RGB": [
+            105,
+            136,
+            90
+        ]
+    },
+    {
+        "thread_code": "367",
+        "thread_name": "Pistachio Green Dark",
+        "thread_HEX_code": "#617A52",
+        "thread_RGB": [
+            97,
+            122,
+            82
+        ]
+    },
+    {
+        "thread_code": "319",
+        "thread_name": "Pistachio Grn Very Dark",
+        "thread_HEX_code": "#205F2E",
+        "thread_RGB": [
+            32,
+            95,
+            46
+        ]
+    },
+    {
+        "thread_code": "890",
+        "thread_name": "Pistachio Grn Ultra Very Dark",
+        "thread_HEX_code": "#184923",
+        "thread_RGB": [
+            23,
+            73,
+            35
+        ]
+    },
+    {
+        "thread_code": "164",
+        "thread_name": "Forest Green Light",
+        "thread_HEX_code": "#C8D8B8",
+        "thread_RGB": [
+            200,
+            216,
+            184
+        ]
+    },
+    {
+        "thread_code": "989",
+        "thread_name": "Forest Green",
+        "thread_HEX_code": "#8DA675",
+        "thread_RGB": [
+            141,
+            166,
+            117
+        ]
+    },
+    {
+        "thread_code": "988",
+        "thread_name": "Forest Green Medium",
+        "thread_HEX_code": "#738B5B",
+        "thread_RGB": [
+            115,
+            139,
+            91
+        ]
+    },
+    {
+        "thread_code": "987",
+        "thread_name": "Forest Green Dark",
+        "thread_HEX_code": "#587141",
+        "thread_RGB": [
+            88,
+            113,
+            65
+        ]
+    },
+    {
+        "thread_code": "986",
+        "thread_name": "Forest Green Very Dark",
+        "thread_HEX_code": "#405230",
+        "thread_RGB": [
+            64,
+            82,
+            48
+        ]
+    },
+    {
+        "thread_code": "772",
+        "thread_name": "Yellow Green Very Light",
+        "thread_HEX_code": "#E4ECD4",
+        "thread_RGB": [
+            228,
+            236,
+            212
+        ]
+    },
+    {
+        "thread_code": "3348",
+        "thread_name": "Yellow Green Light",
+        "thread_HEX_code": "#CCD9B1",
+        "thread_RGB": [
+            204,
+            217,
+            177
+        ]
+    },
+    {
+        "thread_code": "3347",
+        "thread_name": "Yellow Green Medium",
+        "thread_HEX_code": "#71935C",
+        "thread_RGB": [
+            113,
+            147,
+            92
+        ]
+    },
+    {
+        "thread_code": "3346",
+        "thread_name": "Hunter Green",
+        "thread_HEX_code": "#406A3A",
+        "thread_RGB": [
+            64,
+            106,
+            58
+        ]
+    },
+    {
+        "thread_code": "3345",
+        "thread_name": "Hunter Green Dark",
+        "thread_HEX_code": "#1B5915",
+        "thread_RGB": [
+            27,
+            89,
+            21
+        ]
+    },
+    {
+        "thread_code": "895",
+        "thread_name": "Hunter Green Very Dark",
+        "thread_HEX_code": "#1B5300",
+        "thread_RGB": [
+            27,
+            83,
+            0
+        ]
+    },
+    {
+        "thread_code": "704",
+        "thread_name": "Chartreuse Bright",
+        "thread_HEX_code": "#9ECF34",
+        "thread_RGB": [
+            158,
+            207,
+            52
+        ]
+    },
+    {
+        "thread_code": "703",
+        "thread_name": "Chartreuse",
+        "thread_HEX_code": "#7BB547",
+        "thread_RGB": [
+            123,
+            181,
+            71
+        ]
+    },
+    {
+        "thread_code": "702",
+        "thread_name": "Kelly Green",
+        "thread_HEX_code": "#47A72F",
+        "thread_RGB": [
+            71,
+            167,
+            47
+        ]
+    },
+    {
+        "thread_code": "701",
+        "thread_name": "Green Light",
+        "thread_HEX_code": "#3F8F29",
+        "thread_RGB": [
+            63,
+            143,
+            41
+        ]
+    },
+    {
+        "thread_code": "700",
+        "thread_name": "Green Bright",
+        "thread_HEX_code": "#07731B",
+        "thread_RGB": [
+            7,
+            115,
+            27
+        ]
+    },
+    {
+        "thread_code": "699",
+        "thread_name": "Green",
+        "thread_HEX_code": "#056517",
+        "thread_RGB": [
+            5,
+            101,
+            23
+        ]
+    },
+    {
+        "thread_code": "907",
+        "thread_name": "Parrot Green Light",
+        "thread_HEX_code": "#C7E666",
+        "thread_RGB": [
+            199,
+            230,
+            102
+        ]
+    },
+    {
+        "thread_code": "906",
+        "thread_name": "Parrot Green Medium",
+        "thread_HEX_code": "#7FB335",
+        "thread_RGB": [
+            127,
+            179,
+            53
+        ]
+    },
+    {
+        "thread_code": "905",
+        "thread_name": "Parrot Green Dark",
+        "thread_HEX_code": "#628A28",
+        "thread_RGB": [
+            98,
+            138,
+            40
+        ]
+    },
+    {
+        "thread_code": "904",
+        "thread_name": "Parrot Green Very Dark",
+        "thread_HEX_code": "#557822",
+        "thread_RGB": [
+            85,
+            120,
+            34
+        ]
+    },
+    {
+        "thread_code": "472",
+        "thread_name": "Avocado Green Ultra Light",
+        "thread_HEX_code": "#D8E498",
+        "thread_RGB": [
+            216,
+            228,
+            152
+        ]
+    },
+    {
+        "thread_code": "471",
+        "thread_name": "Avocado Grn Very Light",
+        "thread_HEX_code": "#AEBF79",
+        "thread_RGB": [
+            174,
+            191,
+            121
+        ]
+    },
+    {
+        "thread_code": "470",
+        "thread_name": "Avocado Grn Light",
+        "thread_HEX_code": "#94AB4F",
+        "thread_RGB": [
+            148,
+            171,
+            79
+        ]
+    },
+    {
+        "thread_code": "469",
+        "thread_name": "Avocado Green",
+        "thread_HEX_code": "#72843C",
+        "thread_RGB": [
+            114,
+            132,
+            60
+        ]
+    },
+    {
+        "thread_code": "937",
+        "thread_name": "Avocado Green Medium",
+        "thread_HEX_code": "#627133",
+        "thread_RGB": [
+            98,
+            113,
+            51
+        ]
+    },
+    {
+        "thread_code": "936",
+        "thread_name": "Avocado Green Very Dark",
+        "thread_HEX_code": "#4C5826",
+        "thread_RGB": [
+            76,
+            88,
+            38
+        ]
+    },
+    {
+        "thread_code": "935",
+        "thread_name": "Avocado Green Dark",
+        "thread_HEX_code": "#424D21",
+        "thread_RGB": [
+            66,
+            77,
+            33
+        ]
+    },
+    {
+        "thread_code": "934",
+        "thread_name": "Avocado Grn Black",
+        "thread_HEX_code": "#313919",
+        "thread_RGB": [
+            49,
+            57,
+            25
+        ]
+    },
+    {
+        "thread_code": "523",
+        "thread_name": "Fern Green Light",
+        "thread_HEX_code": "#ABB197",
+        "thread_RGB": [
+            171,
+            177,
+            151
+        ]
+    },
+    {
+        "thread_code": "3053",
+        "thread_name": "Green Gray",
+        "thread_HEX_code": "#9CA482",
+        "thread_RGB": [
+            156,
+            164,
+            130
+        ]
+    },
+    {
+        "thread_code": "3052",
+        "thread_name": "Green Gray Medium",
+        "thread_HEX_code": "#889268",
+        "thread_RGB": [
+            136,
+            146,
+            104
+        ]
+    },
+    {
+        "thread_code": "3051",
+        "thread_name": "Green Gray Dark",
+        "thread_HEX_code": "#5F6648",
+        "thread_RGB": [
+            95,
+            102,
+            72
+        ]
+    },
+    {
+        "thread_code": "524",
+        "thread_name": "Fern Green Very Light",
+        "thread_HEX_code": "#C4CDAC",
+        "thread_RGB": [
+            196,
+            205,
+            172
+        ]
+    },
+    {
+        "thread_code": "522",
+        "thread_name": "Fern Green",
+        "thread_HEX_code": "#969E7E",
+        "thread_RGB": [
+            150,
+            158,
+            126
+        ]
+    },
+    {
+        "thread_code": "520",
+        "thread_name": "Fern Green Dark",
+        "thread_HEX_code": "#666D4F",
+        "thread_RGB": [
+            102,
+            109,
+            79
+        ]
+    },
+    {
+        "thread_code": "3364",
+        "thread_name": "Pine Green",
+        "thread_HEX_code": "#83975F",
+        "thread_RGB": [
+            131,
+            151,
+            95
+        ]
+    },
+    {
+        "thread_code": "3363",
+        "thread_name": "Pine Green Medium",
+        "thread_HEX_code": "#728256",
+        "thread_RGB": [
+            114,
+            130,
+            86
+        ]
+    },
+    {
+        "thread_code": "3362",
+        "thread_name": "Pine Green Dark",
+        "thread_HEX_code": "#5E6B47",
+        "thread_RGB": [
+            94,
+            107,
+            71
+        ]
+    },
+    {
+        "thread_code": "165",
+        "thread_name": "Moss Green Very Light",
+        "thread_HEX_code": "#EFF4A4",
+        "thread_RGB": [
+            239,
+            244,
+            164
+        ]
+    },
+    {
+        "thread_code": "3819",
+        "thread_name": "Moss Green Light",
+        "thread_HEX_code": "#E0E868",
+        "thread_RGB": [
+            224,
+            232,
+            104
+        ]
+    },
+    {
+        "thread_code": "166",
+        "thread_name": "Moss Green Medium Light",
+        "thread_HEX_code": "#C0C840",
+        "thread_RGB": [
+            192,
+            200,
+            64
+        ]
+    },
+    {
+        "thread_code": "581",
+        "thread_name": "Moss Green",
+        "thread_HEX_code": "#A7AE38",
+        "thread_RGB": [
+            167,
+            174,
+            56
+        ]
+    },
+    {
+        "thread_code": "580",
+        "thread_name": "Moss Green Dark",
+        "thread_HEX_code": "#888D33",
+        "thread_RGB": [
+            136,
+            141,
+            51
+        ]
+    },
+    {
+        "thread_code": "734",
+        "thread_name": "Olive Green Light",
+        "thread_HEX_code": "#C7C077",
+        "thread_RGB": [
+            199,
+            192,
+            119
+        ]
+    },
+    {
+        "thread_code": "733",
+        "thread_name": "Olive Green Medium",
+        "thread_HEX_code": "#BCB34C",
+        "thread_RGB": [
+            188,
+            179,
+            76
+        ]
+    },
+    {
+        "thread_code": "732",
+        "thread_name": "Olive Green",
+        "thread_HEX_code": "#948C36",
+        "thread_RGB": [
+            148,
+            140,
+            54
+        ]
+    },
+    {
+        "thread_code": "731",
+        "thread_name": "Olive Green Dark",
+        "thread_HEX_code": "#938B37",
+        "thread_RGB": [
+            147,
+            139,
+            55
+        ]
+    },
+    {
+        "thread_code": "730",
+        "thread_name": "Olive Green Very Dark",
+        "thread_HEX_code": "#827B30",
+        "thread_RGB": [
+            130,
+            123,
+            48
+        ]
+    },
+    {
+        "thread_code": "3013",
+        "thread_name": "Khaki Green Light",
+        "thread_HEX_code": "#B9B982",
+        "thread_RGB": [
+            185,
+            185,
+            130
+        ]
+    },
+    {
+        "thread_code": "3012",
+        "thread_name": "Khaki Green Medium",
+        "thread_HEX_code": "#A6A75D",
+        "thread_RGB": [
+            166,
+            167,
+            93
+        ]
+    },
+    {
+        "thread_code": "3011",
+        "thread_name": "Khaki Green Dark",
+        "thread_HEX_code": "#898A58",
+        "thread_RGB": [
+            137,
+            138,
+            88
+        ]
+    },
+    {
+        "thread_code": "372",
+        "thread_name": "Mustard Light",
+        "thread_HEX_code": "#CCB784",
+        "thread_RGB": [
+            204,
+            183,
+            132
+        ]
+    },
+    {
+        "thread_code": "371",
+        "thread_name": "Mustard",
+        "thread_HEX_code": "#BFA671",
+        "thread_RGB": [
+            191,
+            166,
+            113
+        ]
+    },
+    {
+        "thread_code": "370",
+        "thread_name": "Mustard Medium",
+        "thread_HEX_code": "#B89D64",
+        "thread_RGB": [
+            184,
+            157,
+            100
+        ]
+    },
+    {
+        "thread_code": "834",
+        "thread_name": "Golden Olive Very Light",
+        "thread_HEX_code": "#DBBE7F",
+        "thread_RGB": [
+            219,
+            190,
+            127
+        ]
+    },
+    {
+        "thread_code": "833",
+        "thread_name": "Golden Olive Light",
+        "thread_HEX_code": "#C8AB6C",
+        "thread_RGB": [
+            200,
+            171,
+            108
+        ]
+    },
+    {
+        "thread_code": "832",
+        "thread_name": "Golden Olive",
+        "thread_HEX_code": "#BD9B51",
+        "thread_RGB": [
+            189,
+            155,
+            81
+        ]
+    },
+    {
+        "thread_code": "831",
+        "thread_name": "Golden Olive Medium",
+        "thread_HEX_code": "#AA8F56",
+        "thread_RGB": [
+            170,
+            143,
+            86
+        ]
+    },
+    {
+        "thread_code": "830",
+        "thread_name": "Golden Olive Dark",
+        "thread_HEX_code": "#8D784B",
+        "thread_RGB": [
+            141,
+            120,
+            75
+        ]
+    },
+    {
+        "thread_code": "829",
+        "thread_name": "Golden Olive Very Dark",
+        "thread_HEX_code": "#7E6B42",
+        "thread_RGB": [
+            126,
+            107,
+            66
+        ]
+    },
+    {
+        "thread_code": "613",
+        "thread_name": "Drab Brown Very Light",
+        "thread_HEX_code": "#DCC4AA",
+        "thread_RGB": [
+            220,
+            196,
+            170
+        ]
+    },
+    {
+        "thread_code": "612",
+        "thread_name": "Drab Brown Light",
+        "thread_HEX_code": "#BC9A78",
+        "thread_RGB": [
+            188,
+            154,
+            120
+        ]
+    },
+    {
+        "thread_code": "611",
+        "thread_name": "Drab Brown",
+        "thread_HEX_code": "#967656",
+        "thread_RGB": [
+            150,
+            118,
+            86
+        ]
+    },
+    {
+        "thread_code": "610",
+        "thread_name": "Drab Brown Dark",
+        "thread_HEX_code": "#796047",
+        "thread_RGB": [
+            121,
+            96,
+            71
+        ]
+    },
+    {
+        "thread_code": "3047",
+        "thread_name": "Yellow Beige Light",
+        "thread_HEX_code": "#E7D6C1",
+        "thread_RGB": [
+            231,
+            214,
+            193
+        ]
+    },
+    {
+        "thread_code": "3046",
+        "thread_name": "Yellow Beige Medium",
+        "thread_HEX_code": "#D8BC9A",
+        "thread_RGB": [
+            216,
+            188,
+            154
+        ]
+    },
+    {
+        "thread_code": "3045",
+        "thread_name": "Yellow Beige Dark",
+        "thread_HEX_code": "#BC966A",
+        "thread_RGB": [
+            188,
+            150,
+            106
+        ]
+    },
+    {
+        "thread_code": "167",
+        "thread_name": "Yellow Beige Very Dark",
+        "thread_HEX_code": "#A77C49",
+        "thread_RGB": [
+            167,
+            124,
+            73
+        ]
+    },
+    {
+        "thread_code": "746",
+        "thread_name": "Off White",
+        "thread_HEX_code": "#FCFCEE",
+        "thread_RGB": [
+            252,
+            252,
+            238
+        ]
+    },
+    {
+        "thread_code": "677",
+        "thread_name": "Old Gold Very Light",
+        "thread_HEX_code": "#F5ECCB",
+        "thread_RGB": [
+            245,
+            236,
+            203
+        ]
+    },
+    {
+        "thread_code": "422",
+        "thread_name": "Hazelnut Brown Light",
+        "thread_HEX_code": "#C69F7B",
+        "thread_RGB": [
+            198,
+            159,
+            123
+        ]
+    },
+    {
+        "thread_code": "3828",
+        "thread_name": "Hazelnut Brown",
+        "thread_HEX_code": "#B78B61",
+        "thread_RGB": [
+            183,
+            139,
+            97
+        ]
+    },
+    {
+        "thread_code": "420",
+        "thread_name": "Hazelnut Brown Dark",
+        "thread_HEX_code": "#A07042",
+        "thread_RGB": [
+            160,
+            112,
+            66
+        ]
+    },
+    {
+        "thread_code": "869",
+        "thread_name": "Hazelnut Brown Very Dark",
+        "thread_HEX_code": "#835E39",
+        "thread_RGB": [
+            131,
+            94,
+            57
+        ]
+    },
+    {
+        "thread_code": "728",
+        "thread_name": "Topaz",
+        "thread_HEX_code": "#E4B468",
+        "thread_RGB": [
+            228,
+            180,
+            104
+        ]
+    },
+    {
+        "thread_code": "783",
+        "thread_name": "Topaz Medium",
+        "thread_HEX_code": "#CE9124",
+        "thread_RGB": [
+            206,
+            145,
+            36
+        ]
+    },
+    {
+        "thread_code": "782",
+        "thread_name": "Topaz Dark",
+        "thread_HEX_code": "#AE7720",
+        "thread_RGB": [
+            174,
+            119,
+            32
+        ]
+    },
+    {
+        "thread_code": "781",
+        "thread_name": "Topaz Very Dark",
+        "thread_HEX_code": "#A26D20",
+        "thread_RGB": [
+            162,
+            109,
+            32
+        ]
+    },
+    {
+        "thread_code": "780",
+        "thread_name": "Topaz Ultra Very Dark",
+        "thread_HEX_code": "#94631A",
+        "thread_RGB": [
+            148,
+            99,
+            26
+        ]
+    },
+    {
+        "thread_code": "676",
+        "thread_name": "Old Gold Light",
+        "thread_HEX_code": "#E5CE97",
+        "thread_RGB": [
+            229,
+            206,
+            151
+        ]
+    },
+    {
+        "thread_code": "729",
+        "thread_name": "Old Gold Medium",
+        "thread_HEX_code": "#D0A53E",
+        "thread_RGB": [
+            208,
+            165,
+            62
+        ]
+    },
+    {
+        "thread_code": "680",
+        "thread_name": "Old Gold Dark",
+        "thread_HEX_code": "#BC8D0E",
+        "thread_RGB": [
+            188,
+            141,
+            14
+        ]
+    },
+    {
+        "thread_code": "3829",
+        "thread_name": "Old Gold Vy Dark",
+        "thread_HEX_code": "#A98204",
+        "thread_RGB": [
+            169,
+            130,
+            4
+        ]
+    },
+    {
+        "thread_code": "3822",
+        "thread_name": "Straw Light",
+        "thread_HEX_code": "#F6DC98",
+        "thread_RGB": [
+            246,
+            220,
+            152
+        ]
+    },
+    {
+        "thread_code": "3821",
+        "thread_name": "Straw",
+        "thread_HEX_code": "#F3CE75",
+        "thread_RGB": [
+            243,
+            206,
+            117
+        ]
+    },
+    {
+        "thread_code": "3820",
+        "thread_name": "Straw Dark",
+        "thread_HEX_code": "#DFB65F",
+        "thread_RGB": [
+            223,
+            182,
+            95
+        ]
+    },
+    {
+        "thread_code": "3852",
+        "thread_name": "Straw Very Dark",
+        "thread_HEX_code": "#CD9D37",
+        "thread_RGB": [
+            205,
+            157,
+            55
+        ]
+    },
+    {
+        "thread_code": "445",
+        "thread_name": "Lemon Light",
+        "thread_HEX_code": "#FFFB8B",
+        "thread_RGB": [
+            255,
+            251,
+            139
+        ]
+    },
+    {
+        "thread_code": "307",
+        "thread_name": "Lemon",
+        "thread_HEX_code": "#FDED54",
+        "thread_RGB": [
+            253,
+            237,
+            84
+        ]
+    },
+    {
+        "thread_code": "973",
+        "thread_name": "Canary Bright",
+        "thread_HEX_code": "#FFE300",
+        "thread_RGB": [
+            255,
+            227,
+            0
+        ]
+    },
+    {
+        "thread_code": "444",
+        "thread_name": "Lemon Dark",
+        "thread_HEX_code": "#FFD600",
+        "thread_RGB": [
+            255,
+            214,
+            0
+        ]
+    },
+    {
+        "thread_code": "3078",
+        "thread_name": "Golden Yellow Very Light",
+        "thread_HEX_code": "#FDF9CD",
+        "thread_RGB": [
+            253,
+            249,
+            205
+        ]
+    },
+    {
+        "thread_code": "727",
+        "thread_name": "Topaz Very Light",
+        "thread_HEX_code": "#FFF1AF",
+        "thread_RGB": [
+            255,
+            241,
+            175
+        ]
+    },
+    {
+        "thread_code": "726",
+        "thread_name": "Topaz Light",
+        "thread_HEX_code": "#FDD755",
+        "thread_RGB": [
+            253,
+            215,
+            85
+        ]
+    },
+    {
+        "thread_code": "725",
+        "thread_name": "Topaz Medium Light",
+        "thread_HEX_code": "#FFC840",
+        "thread_RGB": [
+            255,
+            200,
+            64
+        ]
+    },
+    {
+        "thread_code": "972",
+        "thread_name": "Canary Deep",
+        "thread_HEX_code": "#FFB515",
+        "thread_RGB": [
+            255,
+            181,
+            21
+        ]
+    },
+    {
+        "thread_code": "745",
+        "thread_name": "Yellow Pale Light",
+        "thread_HEX_code": "#FFE9AD",
+        "thread_RGB": [
+            255,
+            233,
+            173
+        ]
+    },
+    {
+        "thread_code": "744",
+        "thread_name": "Yellow Pale",
+        "thread_HEX_code": "#FFE793",
+        "thread_RGB": [
+            255,
+            231,
+            147
+        ]
+    },
+    {
+        "thread_code": "743",
+        "thread_name": "Yellow Medium",
+        "thread_HEX_code": "#FED376",
+        "thread_RGB": [
+            254,
+            211,
+            118
+        ]
+    },
+    {
+        "thread_code": "742",
+        "thread_name": "Tangerine Light",
+        "thread_HEX_code": "#FFBF57",
+        "thread_RGB": [
+            255,
+            191,
+            87
+        ]
+    },
+    {
+        "thread_code": "741",
+        "thread_name": "Tangerine Medium",
+        "thread_HEX_code": "#FFA32B",
+        "thread_RGB": [
+            255,
+            163,
+            43
+        ]
+    },
+    {
+        "thread_code": "740",
+        "thread_name": "Tangerine",
+        "thread_HEX_code": "#FF8B00",
+        "thread_RGB": [
+            255,
+            139,
+            0
+        ]
+    },
+    {
+        "thread_code": "970",
+        "thread_name": "Pumpkin Light",
+        "thread_HEX_code": "#F78B13",
+        "thread_RGB": [
+            247,
+            139,
+            19
+        ]
+    },
+    {
+        "thread_code": "971",
+        "thread_name": "Pumpkin",
+        "thread_HEX_code": "#F67F00",
+        "thread_RGB": [
+            246,
+            127,
+            0
+        ]
+    },
+    {
+        "thread_code": "947",
+        "thread_name": "Burnt Orange",
+        "thread_HEX_code": "#FF7B4D",
+        "thread_RGB": [
+            255,
+            123,
+            77
+        ]
+    },
+    {
+        "thread_code": "946",
+        "thread_name": "Burnt Orange Medium",
+        "thread_HEX_code": "#EB6307",
+        "thread_RGB": [
+            235,
+            99,
+            7
+        ]
+    },
+    {
+        "thread_code": "900",
+        "thread_name": "Burnt Orange Dark",
+        "thread_HEX_code": "#D15807",
+        "thread_RGB": [
+            209,
+            88,
+            7
+        ]
+    },
+    {
+        "thread_code": "967",
+        "thread_name": "Apricot Very Light",
+        "thread_HEX_code": "#FFDED5",
+        "thread_RGB": [
+            255,
+            222,
+            213
+        ]
+    },
+    {
+        "thread_code": "3824",
+        "thread_name": "Apricot Light",
+        "thread_HEX_code": "#FECDC2",
+        "thread_RGB": [
+            254,
+            205,
+            194
+        ]
+    },
+    {
+        "thread_code": "3341",
+        "thread_name": "Apricot",
+        "thread_HEX_code": "#FCAB98",
+        "thread_RGB": [
+            252,
+            171,
+            152
+        ]
+    },
+    {
+        "thread_code": "3340",
+        "thread_name": "Apricot Medium",
+        "thread_HEX_code": "#FF836F",
+        "thread_RGB": [
+            255,
+            131,
+            111
+        ]
+    },
+    {
+        "thread_code": "608",
+        "thread_name": "Burnt Orange Bright",
+        "thread_HEX_code": "#FD5D35",
+        "thread_RGB": [
+            253,
+            93,
+            53
+        ]
+    },
+    {
+        "thread_code": "606",
+        "thread_name": "Orange Red Bright",
+        "thread_HEX_code": "#FA3203",
+        "thread_RGB": [
+            250,
+            50,
+            3
+        ]
+    },
+    {
+        "thread_code": "951",
+        "thread_name": "Tawny Light",
+        "thread_HEX_code": "#FFE2CF",
+        "thread_RGB": [
+            255,
+            226,
+            207
+        ]
+    },
+    {
+        "thread_code": "3856",
+        "thread_name": "Mahogany Ultra Very Light",
+        "thread_HEX_code": "#FFD3B5",
+        "thread_RGB": [
+            255,
+            211,
+            181
+        ]
+    },
+    {
+        "thread_code": "722",
+        "thread_name": "Orange Spice Light",
+        "thread_HEX_code": "#F7976F",
+        "thread_RGB": [
+            247,
+            151,
+            111
+        ]
+    },
+    {
+        "thread_code": "721",
+        "thread_name": "Orange Spice Medium",
+        "thread_HEX_code": "#F27842",
+        "thread_RGB": [
+            242,
+            120,
+            66
+        ]
+    },
+    {
+        "thread_code": "720",
+        "thread_name": "Orange Spice Dark",
+        "thread_HEX_code": "#E55C1F",
+        "thread_RGB": [
+            229,
+            92,
+            31
+        ]
+    },
+    {
+        "thread_code": "3825",
+        "thread_name": "Pumpkin Pale",
+        "thread_HEX_code": "#FDBD96",
+        "thread_RGB": [
+            253,
+            189,
+            150
+        ]
+    },
+    {
+        "thread_code": "922",
+        "thread_name": "Copper Light",
+        "thread_HEX_code": "#E27323",
+        "thread_RGB": [
+            226,
+            115,
+            35
+        ]
+    },
+    {
+        "thread_code": "921",
+        "thread_name": "Copper",
+        "thread_HEX_code": "#C66218",
+        "thread_RGB": [
+            198,
+            98,
+            24
+        ]
+    },
+    {
+        "thread_code": "920",
+        "thread_name": "Copper Medium",
+        "thread_HEX_code": "#AC5414",
+        "thread_RGB": [
+            172,
+            84,
+            20
+        ]
+    },
+    {
+        "thread_code": "919",
+        "thread_name": "Red Copper",
+        "thread_HEX_code": "#A64510",
+        "thread_RGB": [
+            166,
+            69,
+            16
+        ]
+    },
+    {
+        "thread_code": "918",
+        "thread_name": "Red Copper Dark",
+        "thread_HEX_code": "#82340A",
+        "thread_RGB": [
+            130,
+            52,
+            10
+        ]
+    },
+    {
+        "thread_code": "3770",
+        "thread_name": "Tawny Vy Light",
+        "thread_HEX_code": "#FFEEE3",
+        "thread_RGB": [
+            255,
+            238,
+            227
+        ]
+    },
+    {
+        "thread_code": "945",
+        "thread_name": "Tawny",
+        "thread_HEX_code": "#FBD5BB",
+        "thread_RGB": [
+            251,
+            213,
+            187
+        ]
+    },
+    {
+        "thread_code": "402",
+        "thread_name": "Mahogany Very Light",
+        "thread_HEX_code": "#F7A777",
+        "thread_RGB": [
+            247,
+            167,
+            119
+        ]
+    },
+    {
+        "thread_code": "3776",
+        "thread_name": "Mahogany Light",
+        "thread_HEX_code": "#CF7939",
+        "thread_RGB": [
+            207,
+            121,
+            57
+        ]
+    },
+    {
+        "thread_code": "301",
+        "thread_name": "Mahogany Medium",
+        "thread_HEX_code": "#B35F2B",
+        "thread_RGB": [
+            179,
+            95,
+            43
+        ]
+    },
+    {
+        "thread_code": "400",
+        "thread_name": "Mahogany Dark",
+        "thread_HEX_code": "#8F430F",
+        "thread_RGB": [
+            143,
+            67,
+            15
+        ]
+    },
+    {
+        "thread_code": "300",
+        "thread_name": "Mahogany Very Dark",
+        "thread_HEX_code": "#6F2F00",
+        "thread_RGB": [
+            111,
+            47,
+            0
+        ]
+    },
+    {
+        "thread_code": "3823",
+        "thread_name": "Yellow Ultra Pale",
+        "thread_HEX_code": "#FFFDE3",
+        "thread_RGB": [
+            255,
+            253,
+            227
+        ]
+    },
+    {
+        "thread_code": "3855",
+        "thread_name": "Autumn Gold Light",
+        "thread_HEX_code": "#FAD396",
+        "thread_RGB": [
+            250,
+            211,
+            150
+        ]
+    },
+    {
+        "thread_code": "3854",
+        "thread_name": "Autumn Gold Medium",
+        "thread_HEX_code": "#F2AF68",
+        "thread_RGB": [
+            242,
+            175,
+            104
+        ]
+    },
+    {
+        "thread_code": "3853",
+        "thread_name": "Autumn Gold Dark",
+        "thread_HEX_code": "#F29746",
+        "thread_RGB": [
+            242,
+            151,
+            70
+        ]
+    },
+    {
+        "thread_code": "3827",
+        "thread_name": "Golden Brown Pale",
+        "thread_HEX_code": "#F7BB77",
+        "thread_RGB": [
+            247,
+            187,
+            119
+        ]
+    },
+    {
+        "thread_code": "977",
+        "thread_name": "Golden Brown Light",
+        "thread_HEX_code": "#DC9C56",
+        "thread_RGB": [
+            220,
+            156,
+            86
+        ]
+    },
+    {
+        "thread_code": "976",
+        "thread_name": "Golden Brown Medium",
+        "thread_HEX_code": "#C28142",
+        "thread_RGB": [
+            194,
+            129,
+            66
+        ]
+    },
+    {
+        "thread_code": "3826",
+        "thread_name": "Golden Brown",
+        "thread_HEX_code": "#AD7239",
+        "thread_RGB": [
+            173,
+            114,
+            57
+        ]
+    },
+    {
+        "thread_code": "975",
+        "thread_name": "Golden Brown Dark",
+        "thread_HEX_code": "#914F12",
+        "thread_RGB": [
+            145,
+            79,
+            18
+        ]
+    },
+    {
+        "thread_code": "948",
+        "thread_name": "Peach Very Light",
+        "thread_HEX_code": "#FEE7DA",
+        "thread_RGB": [
+            254,
+            231,
+            218
+        ]
+    },
+    {
+        "thread_code": "754",
+        "thread_name": "Peach Light",
+        "thread_HEX_code": "#F7CBBF",
+        "thread_RGB": [
+            247,
+            203,
+            191
+        ]
+    },
+    {
+        "thread_code": "3771",
+        "thread_name": "Terra Cotta Ultra Very Light",
+        "thread_HEX_code": "#F4BBA9",
+        "thread_RGB": [
+            244,
+            187,
+            169
+        ]
+    },
+    {
+        "thread_code": "758",
+        "thread_name": "Terra Cotta Very Light",
+        "thread_HEX_code": "#EEAA9B",
+        "thread_RGB": [
+            238,
+            170,
+            155
+        ]
+    },
+    {
+        "thread_code": "3778",
+        "thread_name": "Terra Cotta Light",
+        "thread_HEX_code": "#D98978",
+        "thread_RGB": [
+            217,
+            137,
+            120
+        ]
+    },
+    {
+        "thread_code": "356",
+        "thread_name": "Terra Cotta Medium",
+        "thread_HEX_code": "#C56A5B",
+        "thread_RGB": [
+            197,
+            106,
+            91
+        ]
+    },
+    {
+        "thread_code": "3830",
+        "thread_name": "Terra Cotta",
+        "thread_HEX_code": "#BC5544",
+        "thread_RGB": [
+            185,
+            85,
+            68
+        ]
+    },
+    {
+        "thread_code": "355",
+        "thread_name": "Terra Cotta Dark",
+        "thread_HEX_code": "#984436",
+        "thread_RGB": [
+            152,
+            68,
+            54
+        ]
+    },
+    {
+        "thread_code": "3777",
+        "thread_name": "Terra Cotta Very Dark",
+        "thread_HEX_code": "#863022",
+        "thread_RGB": [
+            134,
+            48,
+            34
+        ]
+    },
+    {
+        "thread_code": "3779",
+        "thread_name": "Rosewood Ultra Very Light",
+        "thread_HEX_code": "#F8CAC8",
+        "thread_RGB": [
+            248,
+            202,
+            200
+        ]
+    },
+    {
+        "thread_code": "3859",
+        "thread_name": "Rosewood Light",
+        "thread_HEX_code": "#BA8B7C",
+        "thread_RGB": [
+            186,
+            139,
+            124
+        ]
+    },
+    {
+        "thread_code": "3858",
+        "thread_name": "Rosewood Medium",
+        "thread_HEX_code": "#964A3F",
+        "thread_RGB": [
+            150,
+            74,
+            63
+        ]
+    },
+    {
+        "thread_code": "3857",
+        "thread_name": "Rosewood Dark",
+        "thread_HEX_code": "#68251A",
+        "thread_RGB": [
+            104,
+            37,
+            26
+        ]
+    },
+    {
+        "thread_code": "3774",
+        "thread_name": "Desert Sand Very Light",
+        "thread_HEX_code": "#F3E1D7",
+        "thread_RGB": [
+            243,
+            225,
+            215
+        ]
+    },
+    {
+        "thread_code": "950",
+        "thread_name": "Desert Sand Light",
+        "thread_HEX_code": "#EED3C4",
+        "thread_RGB": [
+            238,
+            211,
+            196
+        ]
+    },
+    {
+        "thread_code": "3064",
+        "thread_name": "Desert Sand",
+        "thread_HEX_code": "#C48E70",
+        "thread_RGB": [
+            196,
+            142,
+            112
+        ]
+    },
+    {
+        "thread_code": "407",
+        "thread_name": "Desert Sand Medium",
+        "thread_HEX_code": "#BB8161",
+        "thread_RGB": [
+            187,
+            129,
+            97
+        ]
+    },
+    {
+        "thread_code": "3773",
+        "thread_name": "Desert Sand Dark",
+        "thread_HEX_code": "#B67552",
+        "thread_RGB": [
+            182,
+            117,
+            82
+        ]
+    },
+    {
+        "thread_code": "3772",
+        "thread_name": "Desert Sand Very Dark",
+        "thread_HEX_code": "#A06C50",
+        "thread_RGB": [
+            160,
+            108,
+            80
+        ]
+    },
+    {
+        "thread_code": "632",
+        "thread_name": "Desert Sand Ultra Very Dark",
+        "thread_HEX_code": "#875539",
+        "thread_RGB": [
+            135,
+            85,
+            57
+        ]
+    },
+    {
+        "thread_code": "453",
+        "thread_name": "Shell Gray Light",
+        "thread_HEX_code": "#D7CECB",
+        "thread_RGB": [
+            215,
+            206,
+            203
+        ]
+    },
+    {
+        "thread_code": "452",
+        "thread_name": "Shell Gray Medium",
+        "thread_HEX_code": "#C0B3AE",
+        "thread_RGB": [
+            192,
+            179,
+            174
+        ]
+    },
+    {
+        "thread_code": "451",
+        "thread_name": "Shell Gray Dark",
+        "thread_HEX_code": "#917B73",
+        "thread_RGB": [
+            145,
+            123,
+            115
+        ]
+    },
+    {
+        "thread_code": "3861",
+        "thread_name": "Cocoa Light",
+        "thread_HEX_code": "#A68881",
+        "thread_RGB": [
+            166,
+            136,
+            129
+        ]
+    },
+    {
+        "thread_code": "3860",
+        "thread_name": "Cocoa",
+        "thread_HEX_code": "#7D5D57",
+        "thread_RGB": [
+            125,
+            93,
+            87
+        ]
+    },
+    {
+        "thread_code": "779",
+        "thread_name": "Cocoa Dark",
+        "thread_HEX_code": "#624B45",
+        "thread_RGB": [
+            98,
+            75,
+            69
+        ]
+    },
+    {
+        "thread_code": "712",
+        "thread_name": "Cream",
+        "thread_HEX_code": "#FFFBEF",
+        "thread_RGB": [
+            255,
+            251,
+            239
+        ]
+    },
+    {
+        "thread_code": "739",
+        "thread_name": "Tan Ultra Very Light",
+        "thread_HEX_code": "#F8E4C8",
+        "thread_RGB": [
+            248,
+            228,
+            200
+        ]
+    },
+    {
+        "thread_code": "738",
+        "thread_name": "Tan Very Light",
+        "thread_HEX_code": "#ECCC9E",
+        "thread_RGB": [
+            236,
+            204,
+            158
+        ]
+    },
+    {
+        "thread_code": "437",
+        "thread_name": "Tan Light",
+        "thread_HEX_code": "#E4BB8E",
+        "thread_RGB": [
+            228,
+            187,
+            142
+        ]
+    },
+    {
+        "thread_code": "436",
+        "thread_name": "Tan",
+        "thread_HEX_code": "#CB9051",
+        "thread_RGB": [
+            203,
+            144,
+            81
+        ]
+    },
+    {
+        "thread_code": "435",
+        "thread_name": "Brown Very Light",
+        "thread_HEX_code": "#B87748",
+        "thread_RGB": [
+            184,
+            119,
+            72
+        ]
+    },
+    {
+        "thread_code": "434",
+        "thread_name": "Brown Light",
+        "thread_HEX_code": "#985E33",
+        "thread_RGB": [
+            152,
+            94,
+            51
+        ]
+    },
+    {
+        "thread_code": "433",
+        "thread_name": "Brown Medium",
+        "thread_HEX_code": "#7A451F",
+        "thread_RGB": [
+            122,
+            69,
+            31
+        ]
+    },
+    {
+        "thread_code": "801",
+        "thread_name": "Coffee Brown Dark",
+        "thread_HEX_code": "#653919",
+        "thread_RGB": [
+            101,
+            57,
+            25
+        ]
+    },
+    {
+        "thread_code": "898",
+        "thread_name": "Coffee Brown Very Dark",
+        "thread_HEX_code": "#492A13",
+        "thread_RGB": [
+            73,
+            42,
+            19
+        ]
+    },
+    {
+        "thread_code": "938",
+        "thread_name": "Coffee Brown Ultra Dark",
+        "thread_HEX_code": "#361F0E",
+        "thread_RGB": [
+            54,
+            31,
+            14
+        ]
+    },
+    {
+        "thread_code": "3371",
+        "thread_name": "Black Brown",
+        "thread_HEX_code": "#1E1108",
+        "thread_RGB": [
+            30,
+            17,
+            8
+        ]
+    },
+    {
+        "thread_code": "543",
+        "thread_name": "Beige Brown Ultra Very Light",
+        "thread_HEX_code": "#F2E3CE",
+        "thread_RGB": [
+            242,
+            227,
+            206
+        ]
+    },
+    {
+        "thread_code": "3864",
+        "thread_name": "Mocha Beige Light",
+        "thread_HEX_code": "#CBB69C",
+        "thread_RGB": [
+            203,
+            182,
+            156
+        ]
+    },
+    {
+        "thread_code": "3863",
+        "thread_name": "Mocha Beige Medium",
+        "thread_HEX_code": "#A4835C",
+        "thread_RGB": [
+            164,
+            131,
+            92
+        ]
+    },
+    {
+        "thread_code": "3862",
+        "thread_name": "Mocha Beige Dark",
+        "thread_HEX_code": "#8A6E4E",
+        "thread_RGB": [
+            138,
+            110,
+            78
+        ]
+    },
+    {
+        "thread_code": "3031",
+        "thread_name": "Mocha Brown Very Dark",
+        "thread_HEX_code": "#4B3C2A",
+        "thread_RGB": [
+            75,
+            60,
+            42
+        ]
+    },
+    {
+        "thread_code": "B5200",
+        "thread_name": "Snow White",
+        "thread_HEX_code": "#FFFFFF",
+        "thread_RGB": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "thread_code": "White",
+        "thread_name": "White",
+        "thread_HEX_code": "#FCFBF8",
+        "thread_RGB": [
+            252,
+            251,
+            248
+        ]
+    },
+    {
+        "thread_code": "3865",
+        "thread_name": "Winter White",
+        "thread_HEX_code": "#F9F7F1",
+        "thread_RGB": [
+            249,
+            247,
+            241
+        ]
+    },
+    {
+        "thread_code": "Ecru",
+        "thread_name": "Ecru",
+        "thread_HEX_code": "#F0EADA",
+        "thread_RGB": [
+            240,
+            234,
+            218
+        ]
+    },
+    {
+        "thread_code": "822",
+        "thread_name": "Beige Gray Light",
+        "thread_HEX_code": "#E7E2D3",
+        "thread_RGB": [
+            231,
+            226,
+            211
+        ]
+    },
+    {
+        "thread_code": "644",
+        "thread_name": "Beige Gray Medium",
+        "thread_HEX_code": "#DDD8CB",
+        "thread_RGB": [
+            221,
+            216,
+            203
+        ]
+    },
+    {
+        "thread_code": "642",
+        "thread_name": "Beige Gray Dark",
+        "thread_HEX_code": "#A49878",
+        "thread_RGB": [
+            164,
+            152,
+            120
+        ]
+    },
+    {
+        "thread_code": "640",
+        "thread_name": "Beige Gray Very Dark",
+        "thread_HEX_code": "#857B61",
+        "thread_RGB": [
+            133,
+            123,
+            97
+        ]
+    },
+    {
+        "thread_code": "3787",
+        "thread_name": "Brown Gray Dark",
+        "thread_HEX_code": "#625D50",
+        "thread_RGB": [
+            98,
+            93,
+            80
+        ]
+    },
+    {
+        "thread_code": "3021",
+        "thread_name": "Brown Gray Very Dark",
+        "thread_HEX_code": "#4F4B41",
+        "thread_RGB": [
+            79,
+            75,
+            65
+        ]
+    },
+    {
+        "thread_code": "3024",
+        "thread_name": "Brown Gray Very Light",
+        "thread_HEX_code": "#EBEAE7",
+        "thread_RGB": [
+            235,
+            234,
+            231
+        ]
+    },
+    {
+        "thread_code": "3023",
+        "thread_name": "Brown Gray Light",
+        "thread_HEX_code": "#B1AA97",
+        "thread_RGB": [
+            177,
+            170,
+            151
+        ]
+    },
+    {
+        "thread_code": "3022",
+        "thread_name": "Brown Gray Medium",
+        "thread_HEX_code": "#8E9078",
+        "thread_RGB": [
+            142,
+            144,
+            120
+        ]
+    },
+    {
+        "thread_code": "535",
+        "thread_name": "Ash Gray Very Light",
+        "thread_HEX_code": "#636458",
+        "thread_RGB": [
+            99,
+            100,
+            88
+        ]
+    },
+    {
+        "thread_code": "3033",
+        "thread_name": "Mocha Brown Very Light",
+        "thread_HEX_code": "#E3D8CC",
+        "thread_RGB": [
+            227,
+            216,
+            204
+        ]
+    },
+    {
+        "thread_code": "3782",
+        "thread_name": "Mocha Brown Light",
+        "thread_HEX_code": "#D2BCA6",
+        "thread_RGB": [
+            210,
+            188,
+            166
+        ]
+    },
+    {
+        "thread_code": "3032",
+        "thread_name": "Mocha Brown Medium",
+        "thread_HEX_code": "#B39F8B",
+        "thread_RGB": [
+            179,
+            159,
+            139
+        ]
+    },
+    {
+        "thread_code": "3790",
+        "thread_name": "Beige Gray Ultra Dark",
+        "thread_HEX_code": "#7F6A55",
+        "thread_RGB": [
+            127,
+            106,
+            85
+        ]
+    },
+    {
+        "thread_code": "3781",
+        "thread_name": "Mocha Brown Dark",
+        "thread_HEX_code": "#6B5743",
+        "thread_RGB": [
+            107,
+            87,
+            67
+        ]
+    },
+    {
+        "thread_code": "3866",
+        "thread_name": "Mocha Brown Ultra Very Light",
+        "thread_HEX_code": "#FAF6F0",
+        "thread_RGB": [
+            250,
+            246,
+            240
+        ]
+    },
+    {
+        "thread_code": "842",
+        "thread_name": "Beige Brown Very Light",
+        "thread_HEX_code": "#D1BAA1",
+        "thread_RGB": [
+            209,
+            186,
+            161
+        ]
+    },
+    {
+        "thread_code": "841",
+        "thread_name": "Beige Brown Light",
+        "thread_HEX_code": "#B69B7E",
+        "thread_RGB": [
+            182,
+            155,
+            126
+        ]
+    },
+    {
+        "thread_code": "840",
+        "thread_name": "Beige Brown Medium",
+        "thread_HEX_code": "#9A7C5C",
+        "thread_RGB": [
+            154,
+            124,
+            92
+        ]
+    },
+    {
+        "thread_code": "839",
+        "thread_name": "Beige Brown Dark",
+        "thread_HEX_code": "#675541",
+        "thread_RGB": [
+            103,
+            85,
+            65
+        ]
+    },
+    {
+        "thread_code": "838",
+        "thread_name": "Beige Brown Very Dark",
+        "thread_HEX_code": "#594937",
+        "thread_RGB": [
+            89,
+            73,
+            55
+        ]
+    },
+    {
+        "thread_code": "3072",
+        "thread_name": "Beaver Gray Very Light",
+        "thread_HEX_code": "#E6E8E8",
+        "thread_RGB": [
+            230,
+            232,
+            232
+        ]
+    },
+    {
+        "thread_code": "648",
+        "thread_name": "Beaver Gray Light",
+        "thread_HEX_code": "#BCB4AC",
+        "thread_RGB": [
+            188,
+            180,
+            172
+        ]
+    },
+    {
+        "thread_code": "647",
+        "thread_name": "Beaver Gray Medium",
+        "thread_HEX_code": "#B0A69C",
+        "thread_RGB": [
+            176,
+            166,
+            156
+        ]
+    },
+    {
+        "thread_code": "646",
+        "thread_name": "Beaver Gray Dark",
+        "thread_HEX_code": "#877D73",
+        "thread_RGB": [
+            135,
+            125,
+            115
+        ]
+    },
+    {
+        "thread_code": "645",
+        "thread_name": "Beaver Gray Very Dark",
+        "thread_HEX_code": "#6E655C",
+        "thread_RGB": [
+            110,
+            101,
+            92
+        ]
+    },
+    {
+        "thread_code": "844",
+        "thread_name": "Beaver Gray Ultra Dark",
+        "thread_HEX_code": "#484848",
+        "thread_RGB": [
+            72,
+            72,
+            72
+        ]
+    },
+    {
+        "thread_code": "762",
+        "thread_name": "Pearl Gray Very Light",
+        "thread_HEX_code": "#ECECEC",
+        "thread_RGB": [
+            236,
+            236,
+            236
+        ]
+    },
+    {
+        "thread_code": "415",
+        "thread_name": "Pearl Gray",
+        "thread_HEX_code": "#D3D3D6",
+        "thread_RGB": [
+            211,
+            211,
+            214
+        ]
+    },
+    {
+        "thread_code": "318",
+        "thread_name": "Steel Gray Light",
+        "thread_HEX_code": "#ABABAB",
+        "thread_RGB": [
+            171,
+            171,
+            171
+        ]
+    },
+    {
+        "thread_code": "414",
+        "thread_name": "Steel Gray Dark",
+        "thread_HEX_code": "#8C8C8C",
+        "thread_RGB": [
+            140,
+            140,
+            140
+        ]
+    },
+    {
+        "thread_code": "168",
+        "thread_name": "Pewter Very Light",
+        "thread_HEX_code": "#D1D1D1",
+        "thread_RGB": [
+            209,
+            209,
+            209
+        ]
+    },
+    {
+        "thread_code": "169",
+        "thread_name": "Pewter Light",
+        "thread_HEX_code": "#848484",
+        "thread_RGB": [
+            132,
+            132,
+            132
+        ]
+    },
+    {
+        "thread_code": "317",
+        "thread_name": "Pewter Gray",
+        "thread_HEX_code": "#6C6C6C",
+        "thread_RGB": [
+            108,
+            108,
+            108
+        ]
+    },
+    {
+        "thread_code": "413",
+        "thread_name": "Pewter Gray Dark",
+        "thread_HEX_code": "#565656",
+        "thread_RGB": [
+            86,
+            86,
+            86
+        ]
+    },
+    {
+        "thread_code": "3799",
+        "thread_name": "Pewter Gray Very Dark",
+        "thread_HEX_code": "#424242",
+        "thread_RGB": [
+            66,
+            66,
+            66
+        ]
+    },
+    {
+        "thread_code": "310",
+        "thread_name": "Black",
+        "thread_HEX_code": "#000000",
+        "thread_RGB": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "thread_code": "01",
+        "thread_name": "White Tin",
+        "thread_HEX_code": "#E3E3E6",
+        "thread_RGB": [
+            227,
+            227,
+            230
+        ]
+    },
+    {
+        "thread_code": "02",
+        "thread_name": "Tin",
+        "thread_HEX_code": "#D7D7D8",
+        "thread_RGB": [
+            215,
+            215,
+            216
+        ]
+    },
+    {
+        "thread_code": "03",
+        "thread_name": "Tin Medium",
+        "thread_HEX_code": "#B8B8BB",
+        "thread_RGB": [
+            184,
+            184,
+            187
+        ]
+    },
+    {
+        "thread_code": "04",
+        "thread_name": "Tin Dark",
+        "thread_HEX_code": "#AEAEB1",
+        "thread_RGB": [
+            174,
+            174,
+            177
+        ]
+    },
+    {
+        "thread_code": "05",
+        "thread_name": "Driftwood Light",
+        "thread_HEX_code": "#E3CCBE",
+        "thread_RGB": [
+            227,
+            204,
+            190
+        ]
+    },
+    {
+        "thread_code": "06",
+        "thread_name": "Driftwood Medium Light",
+        "thread_HEX_code": "#DCC6B8",
+        "thread_RGB": [
+            220,
+            198,
+            184
+        ]
+    },
+    {
+        "thread_code": "07",
+        "thread_name": "Driftwood",
+        "thread_HEX_code": "#8F7B6E",
+        "thread_RGB": [
+            143,
+            123,
+            110
+        ]
+    },
+    {
+        "thread_code": "08",
+        "thread_name": "Driftwood Dark",
+        "thread_HEX_code": "#6A5046",
+        "thread_RGB": [
+            106,
+            80,
+            70
+        ]
+    },
+    {
+        "thread_code": "09",
+        "thread_name": "Cocoa Very Dark",
+        "thread_HEX_code": "#552014",
+        "thread_RGB": [
+            85,
+            32,
+            14
+        ]
+    },
+    {
+        "thread_code": "10",
+        "thread_name": "Tender Green Very Light",
+        "thread_HEX_code": "#EDFED9",
+        "thread_RGB": [
+            237,
+            254,
+            217
+        ]
+    },
+    {
+        "thread_code": "11",
+        "thread_name": "Tender Green Light",
+        "thread_HEX_code": "#E2EDB5",
+        "thread_RGB": [
+            226,
+            237,
+            181
+        ]
+    },
+    {
+        "thread_code": "12",
+        "thread_name": "Tender Green",
+        "thread_HEX_code": "#CDD99A",
+        "thread_RGB": [
+            205,
+            217,
+            154
+        ]
+    },
+    {
+        "thread_code": "13",
+        "thread_name": "Nile Green Medium Light",
+        "thread_HEX_code": "#BFF6E0",
+        "thread_RGB": [
+            191,
+            246,
+            224
+        ]
+    },
+    {
+        "thread_code": "14",
+        "thread_name": "Apple Green Pale",
+        "thread_HEX_code": "#D0FBB2",
+        "thread_RGB": [
+            208,
+            251,
+            178
+        ]
+    },
+    {
+        "thread_code": "15",
+        "thread_name": "Apple Green",
+        "thread_HEX_code": "#D1EDA4",
+        "thread_RGB": [
+            209,
+            237,
+            164
+        ]
+    },
+    {
+        "thread_code": "16",
+        "thread_name": "Chartreuse Light",
+        "thread_HEX_code": "#C9C258",
+        "thread_RGB": [
+            201,
+            194,
+            88
+        ]
+    },
+    {
+        "thread_code": "17",
+        "thread_name": "Yellow Plum Light",
+        "thread_HEX_code": "#E5E272",
+        "thread_RGB": [
+            229,
+            226,
+            114
+        ]
+    },
+    {
+        "thread_code": "18",
+        "thread_name": "Yellow Plum",
+        "thread_HEX_code": "#D9D56D",
+        "thread_RGB": [
+            217,
+            213,
+            109
+        ]
+    },
+    {
+        "thread_code": "19",
+        "thread_name": "Autumn Gold medium Light",
+        "thread_HEX_code": "#F7C95F",
+        "thread_RGB": [
+            247,
+            201,
+            95
+        ]
+    },
+    {
+        "thread_code": "20",
+        "thread_name": "Shrimp",
+        "thread_HEX_code": "#F7AF93",
+        "thread_RGB": [
+            247,
+            175,
+            147
+        ]
+    },
+    {
+        "thread_code": "21",
+        "thread_name": "Alizarin Light",
+        "thread_HEX_code": "#D79982",
+        "thread_RGB": [
+            215,
+            153,
+            130
+        ]
+    },
+    {
+        "thread_code": "22",
+        "thread_name": "Alizarin",
+        "thread_HEX_code": "#BC604E",
+        "thread_RGB": [
+            188,
+            96,
+            78
+        ]
+    },
+    {
+        "thread_code": "23",
+        "thread_name": "Apple Blossom",
+        "thread_HEX_code": "#EDE2ED",
+        "thread_RGB": [
+            237,
+            226,
+            237
+        ]
+    },
+    {
+        "thread_code": "24",
+        "thread_name": "White Lavender",
+        "thread_HEX_code": "#E0D7EE",
+        "thread_RGB": [
+            224,
+            215,
+            238
+        ]
+    },
+    {
+        "thread_code": "25",
+        "thread_name": "Lavender Ultra Light",
+        "thread_HEX_code": "#DAD2E9",
+        "thread_RGB": [
+            218,
+            210,
+            233
+        ]
+    },
+    {
+        "thread_code": "26",
+        "thread_name": "Lavender Pale",
+        "thread_HEX_code": "#D7CAE6",
+        "thread_RGB": [
+            215,
+            202,
+            230
+        ]
+    },
+    {
+        "thread_code": "27",
+        "thread_name": "White Violet",
+        "thread_HEX_code": "#F0EEF9",
+        "thread_RGB": [
+            240,
+            238,
+            249
+        ]
+    },
+    {
+        "thread_code": "28",
+        "thread_name": "Eggplant Medium Light",
+        "thread_HEX_code": "#9086A9",
+        "thread_RGB": [
+            144,
+            134,
+            169
+        ]
+    },
+    {
+        "thread_code": "29",
+        "thread_name": "Eggplant",
+        "thread_HEX_code": "#674076",
+        "thread_RGB": [
+            103,
+            64,
+            118
+        ]
+    },
+    {
+        "thread_code": "30",
+        "thread_name": "Blueberry Medium Light",
+        "thread_HEX_code": "#7D77A5",
+        "thread_RGB": [
+            125,
+            119,
+            165
+        ]
+    },
+    {
+        "thread_code": "31",
+        "thread_name": "Blueberry",
+        "thread_HEX_code": "#50518D",
+        "thread_RGB": [
+            80,
+            81,
+            141
+        ]
+    },
+    {
+        "thread_code": "32",
+        "thread_name": "Blueberry Dark",
+        "thread_HEX_code": "#4D2E8A",
+        "thread_RGB": [
+            77,
+            46,
+            138
+        ]
+    },
+    {
+        "thread_code": "33",
+        "thread_name": "Fuschia",
+        "thread_HEX_code": "#9C599C",
+        "thread_RGB": [
+            156,
+            89,
+            158
+        ]
+    },
+    {
+        "thread_code": "34",
+        "thread_name": "Fuschia Dark",
+        "thread_HEX_code": "#7D3064",
+        "thread_RGB": [
+            125,
+            48,
+            100
+        ]
+    },
+    {
+        "thread_code": "35",
+        "thread_name": "Fuschia Very Dark",
+        "thread_HEX_code": "#46052D",
+        "thread_RGB": [
+            70,
+            5,
+            45
+        ]
+    }
+]
